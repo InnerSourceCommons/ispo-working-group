@@ -39,3 +39,9 @@ This could be to write an article, code up a tool, create a training video, etc.
 
 We have a regular meeting where we will list new challenges, discuss proposed solutions, and demo finished solutions.
 It is expected that the implementation of many solutions may be contributions to other working groups in the InnerSource Commons (e.g. Patterns, Learning Path).
+
+## Recording
+
+Check out this presentation explaining the motivation, tasks, and goals of this working group.
+
+[<img src="https://user-images.githubusercontent.com/9609562/211604583-ee41a7b4-cb56-4f72-9256-bfa2a560258b.png" width="50%" />](https://www.youtube.com/watch?v=r8Ce7GlwBeA)
