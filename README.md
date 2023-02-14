@@ -57,7 +57,7 @@ Check out this presentation explaining the motivation, tasks, and goals of this 
 
 [<img src="https://user-images.githubusercontent.com/9609562/211604583-ee41a7b4-cb56-4f72-9256-bfa2a560258b.png" width="50%" />](https://www.youtube.com/watch?v=r8Ce7GlwBeA)
 
-## Refernnces
+## References
 
 * [Working Group Charter](https://github.com/InnerSourceCommons/foundation-governance/edit/master/ispo-working-group-charter.md)
 
