@@ -29,7 +29,7 @@ These two examples follow the same pattern - providing directly-usable materials
 
 To chat with everybody in the ISPO working group, please join us in the `#ispo-working-group` channel in [slack][].
 
-There is also have a 2-weekly meeting where we discuss work in progress and new challenges that we are working on. Find details in slack.
+There is also have a meeting every other week where we discuss work in progress and new challenges that we are working on. Find details in slack.
 
 If you want to share details about an InnerSource challenge that you are working in your day job, please open a [new issue](https://github.com/InnerSourceCommons/ispo-working-group/issues) on this repo.
 
