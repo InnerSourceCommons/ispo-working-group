@@ -67,4 +67,4 @@ Find us in the `#ispo-working-group` channel in [slack][].
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
 [Patterns]: https://github.com/InnerSourceCommons/InnerSourcePatterns
 [Learning Path]: https://github.com/InnerSourceCommons/InnerSourceLearningPath
-[join working group]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new?labels=join-wg&template=join-wg.yml&title=%5Bjoin%5D
+[join working group]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new?assignees=rrrutledge%2Cspier&labels=join-wg&template=join-wg.yml&title=%5Bjoin%5D+%3Cyour-name%3E
