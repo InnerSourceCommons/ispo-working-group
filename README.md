@@ -12,6 +12,11 @@ Our goal is to document these sets of solutions to challenges, make it easy for 
 These implementations will likely be documents, videos, or code, each of which is generic enough to be used across companies,
 yet specific enough that people in the company can leverage them to solve their problems without needing notable amounts of company-specific work.
 
+# Principles
+
+* **Progress over perfection** — We produce solutions to challenges first.
+* **Solve your challenges** — We solve company challenges and share them.
+
 ## Examples
 
 As an example, to the challenge of `How do I sell InnerSource to Senior Leadership?`,
