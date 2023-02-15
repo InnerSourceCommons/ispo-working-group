@@ -14,8 +14,10 @@ yet specific enough that people in the company can leverage them to solve their 
 
 # Principles
 
-* **Progress over perfection** — We produce solutions to challenges first.
-* **Solve your challenges** — We solve company challenges and share them.
+* **Progress over perfection** — Even if a solution doesn't work for all companies, we'll still put it out there.
+We can iterate and add more to it later.
+* **Solve your challenges** — Take the challenges that you are already solving and use this working group to get external feedback and sharing.
+We do not expect others to solve our challenges for us.
 
 ## Examples
 
