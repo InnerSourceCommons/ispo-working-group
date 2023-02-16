@@ -12,6 +12,13 @@ Our goal is to document these sets of solutions to challenges, make it easy for 
 These implementations will likely be documents, videos, or code, each of which is generic enough to be used across companies,
 yet specific enough that people in the company can leverage them to solve their problems without needing notable amounts of company-specific work.
 
+# Principles
+
+* **Progress over perfection** — Even if a solution doesn't work for all companies, we'll still put it out there.
+We can iterate and add more to it later.
+* **Solve your challenges** — Take the challenges that you are already solving and use this working group to get external feedback and sharing.
+We do not expect others to solve our challenges for us.
+
 ## Examples
 
 As an example, to the challenge of `How do I sell InnerSource to Senior Leadership?`,
