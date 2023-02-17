@@ -7,21 +7,21 @@ Check out our [README.md] for more details.
 
 1. Contribute your InnerSource-related content.
 
-  * We track contributions on this [Kanban board].
-  * Get access to contribute to the board by [joining the ISPO Working Group team].
-  * Once you have access, create a new card in the **No Status** column describing the content that you want to contribute and what challenge it helps to solve.
-  * Assign the new card to yourself.
-  * Join [#ispo-working-group] channel in the [InnerSource Commons Slack] to discover when is the next working group meeting.
-  * In the meeting, discuss your card and what you are planning to contribute and agree on next steps.
+    * We track contributions on this [Kanban board].
+    * Get access to contribute to the board by [joining the ISPO Working Group team].
+    * Once you have access, create a new card in the **No Status** column describing the content that you want to contribute and what challenge it helps to solve.
+    * Assign the new card to yourself.
+    * Join [#ispo-working-group] channel in the [InnerSource Commons Slack] to discover when is the next working group meeting.
+    * In the meeting, discuss your card and what you are planning to contribute and agree on next steps.
 
 2. Review others' content.
 
-  * Open the [Kanban board] and find something that is interesting to you to review.
-  * Leave a comment on the card indicating that you are interested in reviewing.
+    * Open the [Kanban board] and find something that is interesting to you to review.
+    * Leave a comment on the card indicating that you are interested in reviewing.
 
 3. Attend working group meeting.
 
-  * Join [#ispo-working-group] channel in the [InnerSource Commons Slack] to discover when is the next working group meeting.
+    * Join [#ispo-working-group] channel in the [InnerSource Commons Slack] to discover when is the next working group meeting.
 
 ## Project Board
 
