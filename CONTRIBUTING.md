@@ -1,6 +1,7 @@
 Welcome!
 Every person creating InnerSource-related content or tools within their company should contribute to this working group.
 This working group helps all to get feedback on this work and to share it so that others can leverage it as well.
+Check out our [README.md] for more details.
 
 ## 3 Ways to Contribute
 
@@ -41,3 +42,4 @@ It is expected that the implementation of many solutions may be contributions to
 [joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new/choose
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [InnerSource Commons Slack]: https://innersourcecommons.org/slack
+[README.md]: ./README.md
