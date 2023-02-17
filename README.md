@@ -2,6 +2,7 @@
 
 The purpose of this working group is to support InnerSource Program Offices (ISPOs) with materials needed to establish themselves, teach and scale InnerSource in their respective company.
 This material could be directed towards senior leaders, managers, or individuals in a variety of roles.
+Check out our [CONTRIBUTING.md] for specifics on how you can get involved.
 
 ## Summary
 
@@ -32,23 +33,10 @@ The project could be configured in a (finite) number of ways, depending on varyi
 
 These two examples follow the same pattern - providing directly-usable materials that help ISPOs to advance their mission in their company.
 
-## Implementation
-
-This working group tracks the discovery, production, and spread of solutions to challenges with InnerSource.
-We track this production on a [Kanban board](https://github.com/orgs/InnerSourceCommons/projects/4/views/1) with the following columns:
-
-1. **Challenge**.  This means that we've identified such-and-such a thing as a challenge.
-1. **Proposed**.  We have a proposal for a solution to the challenge.
-This could be to write an article, code up a tool, create a training video, etc.
-1. **Internal**.  We have implemented the solution internally in a company.
-1. **External**.  We have made the solution available externally.
-1. **Validated**.  More than one company is using the solution.
-
-We have a regular meeting where we will list new challenges, discuss proposed solutions, and demo finished solutions.
-It is expected that the implementation of many solutions may be contributions to other working groups in the InnerSource Commons (e.g. Patterns, Learning Path).
-
 ## Recording
 
 Check out this presentation explaining the motivation, tasks, and goals of this working group.
 
 [<img src="https://user-images.githubusercontent.com/9609562/211604583-ee41a7b4-cb56-4f72-9256-bfa2a560258b.png" width="50%" />](https://www.youtube.com/watch?v=r8Ce7GlwBeA)
+
+[CONTRIBUTING.md]: ./CONTRIBUTING.md
