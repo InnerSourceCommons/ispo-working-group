@@ -35,7 +35,7 @@ This could be to write an article, code up a tool, create a training video, etc.
 1. **External**.  We have made the solution available externally.
 1. **Validated**.  More than one company is using the solution.
 
-We have a regular meeting where we will list new challenges, discuss proposed solutions, and demo finished solutions.
+A regular meeting proposes new challenges, discusses ideas, and demos solutions.
 It is expected that the implementation of many solutions may be contributions to other working groups in the InnerSource Commons (e.g. Patterns, Learning Path).
 
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
