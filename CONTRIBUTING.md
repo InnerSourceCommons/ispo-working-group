@@ -12,7 +12,7 @@ Check out our [README.md] for more details.
 Create a new card in the **No Status** column describing your contribution and the challenge it helps solve.
     * Assign the new card to yourself.
     * Learn more about the next Working Group meeting by joining [#ispo-working-group] in [InnerSource Commons Slack].
-    * In the meeting, discuss your card and what you are planning to contribute and agree on next steps.
+    * During the meeting, discuss your card and what you plan to contribute.
 
 2. Review others' content.
 
