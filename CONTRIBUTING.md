@@ -11,7 +11,7 @@ Check out our [README.md] for more details.
     * Get access to contribute to the board by [joining the ISPO Working Group team].
 Create a new card in the **No Status** column describing your contribution and the challenge it helps solve.
     * Assign the new card to yourself.
-    * Join [#ispo-working-group] channel in the [InnerSource Commons Slack] to discover when is the next working group meeting.
+    * Learn more about the next Working Group meeting by joining [#ispo-working-group] in [InnerSource Commons Slack].
     * In the meeting, discuss your card and what you are planning to contribute and agree on next steps.
 
 2. Review others' content.
