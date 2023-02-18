@@ -9,7 +9,7 @@ Check out our [README.md] for more details.
 
     * We track contributions on this [Kanban board].
     * Get access to contribute to the board by [joining the ISPO Working Group team].
-    * Once you have access, create a new card in the **No Status** column describing the content that you want to contribute and what challenge it helps to solve.
+Create a new card in the **No Status** column describing your contribution and the challenge it helps solve.
     * Assign the new card to yourself.
     * Join [#ispo-working-group] channel in the [InnerSource Commons Slack] to discover when is the next working group meeting.
     * In the meeting, discuss your card and what you are planning to contribute and agree on next steps.
