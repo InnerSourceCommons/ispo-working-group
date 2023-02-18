@@ -25,7 +25,7 @@ Check out our [README.md] for more details.
 
 ## Project Board
 
-This working group tracks the discovery, production, and spread of solutions to challenges with InnerSource.
+ InnerSource solutions to challenges are discovered, produced, and spread in this working group.
 We track this production on a [Kanban board] with the following columns:
 
 1. **Challenge**.  This means that we've identified such-and-such a thing as a challenge.
