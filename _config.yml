@@ -1,29 +1,20 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole site, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-
 title: "ISPO Working Group"
-description: "The ISPO Working Group supports InnerSource Program Offices (ISPOs) with materials needed to establish themselves, teach and scale InnerSource in their respective company. The group holds regular meetings, but most work is done asynchronously on GitHub."
-baseurl: "ispo-working-group" # the subpath of your site (case sensitive)
-url: "https://innersourcecommons.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+description: "The purpose of this working group is to support InnerSource Program Offices (ISPOs) with materials needed to establish themselves, teach and scale InnerSource in their respective company. This material could be directed towards senior leaders, managers, or individuals in a variety of roles."
 
-# links will show up as reference links on each role page
+# The name only of your repo exactly.
+baseurl: "ispo-working-group" 
+
+# This should stay as "https://innersourcecommons.github.io/"
+url: "https://innersourcecommons.github.io/"
+
 links:
-  # Chat is a link to the main chat room for your community
+  # The web URL to your Slack channel.
+  # You can find it by logging in at https://innersourcecommons.slack.com/, navigating to your channel, and copying the URL.
   chat: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
-  # Folder is where any agendas or notes lives, typically these live on the InnerSourceCommons Google Drive.
-  folder: https://drive.google.com/1zhP_wQQFf1cIHnkTUZtBGuLhEUYXzvlC
-  # Calendar is a link to a shared calendar showing upcoming invitations.
-  calendar: https://github.com/InnerSourceCommons/foundation-governance/blob/319e6f9bea0de12e93aa418b1a4b0564ebaa59f4/how-to/access-isc-calendar.md
+  
+  # The web URL to the folder that has your meeting agendas.
+  # This is somewhere in the InnerSource Commons Google Drive (https://drive.google.com/drive/folders/0B2FGN9Kd_fgSMDhJU1Nna0Njbm8).
+  folder: https://drive.google.com/drive/folders/1vFJPuQ5l0hKIlC58qjdV1MNSIhdoSBCz
 
+# This should stay as InnerSourceCommons/working-group-roles
 remote_theme: InnerSourceCommons/working-group-roles
