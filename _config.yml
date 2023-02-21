@@ -26,4 +26,4 @@ links:
   # Calendar is a link to a shared calendar showing upcoming invitations.
   calendar: https://github.com/InnerSourceCommons/foundation-governance/blob/319e6f9bea0de12e93aa418b1a4b0564ebaa59f4/how-to/access-isc-calendar.md
 
-remote_theme: mrsanz/jekyll-roles-theme
+remote_theme: InnerSourceCommons/working-group-roles
