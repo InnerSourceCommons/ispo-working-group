@@ -14,7 +14,7 @@
 
 title: "ISPO Working Group"
 description: "The ISPO Working Group supports InnerSource Program Offices (ISPOs) with materials needed to establish themselves, teach and scale InnerSource in their respective company. The group holds regular meetings, but most work is done asynchronously on GitHub."
-baseurl: "/ispo-workng-group" # the subpath of your site (case sensitive)
+baseurl: "/ispo-working-group" # the subpath of your site (case sensitive)
 url: "https://innersourcecommons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # links will show up as reference links on each role page
