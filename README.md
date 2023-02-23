@@ -39,7 +39,7 @@ Please file a [join working group][] issue, and an Admin will add you shortly.
 ## Implementation
 
 This working group tracks the discovery, production, and spread of solutions to challenges with InnerSource.
-We track this production on a [Kanban board] with the following columns:
+We track this production on a [Kanban board][] with the following columns:
 
 1. **Challenge**.  This means that we've identified such-and-such a thing as a challenge.
 1. **Proposed**.  We have a proposal for a solution to the challenge.
