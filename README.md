@@ -27,14 +27,14 @@ These two examples follow the same pattern - providing directly-usable materials
 
 ## Joining the Working Group
 
-To chat with everybody in the ISPO working group, please join us in the _[#ispo-working-group]_ channel in [slack].
+To chat with everybody in the ISPO working group, please join us in the _[#ispo-working-group][]_ channel in [slack][].
 
 There is also have a 2-weekly meeting where we discuss work in progress and new challenges that we are working on. Find details in slack.
 
 If you want to share details about an InnerSource challenge that you are working in your day job, please open a [new issue](https://github.com/InnerSourceCommons/ispo-working-group/issues) on this repo.
 
-To work with our [Kanban board] we need to add you to our GitHub team.
-Please file a [join working group] issue, and an Admin will add you shortly.
+To work with our [Kanban board][] we need to add you to our GitHub team.
+Please file a [join working group][] issue, and an Admin will add you shortly.
 
 ## Implementation
 
@@ -49,7 +49,7 @@ This could be to write an article, code up a tool, create a training video, etc.
 1. **Validated**.  More than one company is using the solution.
 
 We have a regular meeting where we will list new challenges, discuss proposed solutions, and demo finished solutions.
-It is expected that the implementation of many solutions may be contributions to other working groups in the InnerSource Commons (e.g. [Patterns], [Learning Path]).
+It is expected that the implementation of many solutions may be contributions to other working groups in the InnerSource Commons (e.g. [Patterns][], [Learning Path][]).
 
 ## Recording
 
@@ -63,7 +63,7 @@ Check out this presentation explaining the motivation, tasks, and goals of this 
 
 ## Contact
 
-Find us in the _[#ispo-working-group]_ channel in [slack].
+Find us in the _[#ispo-working-group][]_ channel in [slack][].
 
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [slack]: https://innersourcecommons.org/slack
