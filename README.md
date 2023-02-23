@@ -27,7 +27,7 @@ These two examples follow the same pattern - providing directly-usable materials
 
 ## Joining the Working Group
 
-To chat with everybody in the ISPO working group, please join us in the `#ispo-working-group` channel in [slack][].
+To chat with everybody in the ISPO working group, please join us in the _[#ispo-working-group][]_ channel in [slack][].
 
 There is also have a meeting every other week where we discuss work in progress and new challenges that we are working on. Find details in slack.
 
@@ -63,8 +63,9 @@ Check out this presentation explaining the motivation, tasks, and goals of this 
 
 ## Contact
 
-Find us in the `#ispo-working-group` channel in [slack][].
+Find us in the _[#ispo-working-group][]_ channel in [slack][].
 
+[#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [slack]: https://innersourcecommons.org/slack
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
 [Patterns]: https://github.com/InnerSourceCommons/InnerSourcePatterns
