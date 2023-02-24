@@ -16,7 +16,7 @@ Create a new card in the **No Status** column describing your contribution and t
 
 2. Review others' content.
 
-    * Open the [Kanban board] and find something that is interesting to you to review.
+    * Find something interesting on the [Kanban board].
     * Leave a comment on the card indicating that you are interested in reviewing.
 
 3. Attend working group meeting.
