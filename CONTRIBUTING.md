@@ -36,7 +36,7 @@ This could be to write an article, code up a tool, create a training video, etc.
 1. **Validated**.  More than one company is using the solution.
 
 A regular meeting proposes new challenges, discusses ideas, and demos solutions.
-It is expected that the implementation of many solutions may be contributions to other working groups in the InnerSource Commons (e.g. Patterns, Learning Path).
+In many cases, solutions are shareable with other InnerSource Commons working groups; (e.g. [Patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns), [Learning Path](https://github.com/InnerSourceCommons/InnerSourceLearningPath)).
 
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
 [joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new/choose
