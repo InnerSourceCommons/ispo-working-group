@@ -21,7 +21,7 @@ Create a new card in the **No Status** column describing your contribution and t
 
 3. Attend working group meeting.
 
-    * Join [#ispo-working-group] channel in the [InnerSource Commons Slack] to discover when is the next working group meeting.
+    * The [InnerSource Commons Slack] [#ispo-working-group] community will post the next meeting.
 
 ## Project Board
 
