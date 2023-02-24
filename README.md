@@ -28,7 +28,7 @@ and the ISPO could select those videos that highlight the benefits that their Se
 
 As another example, to the challenge of `How do I show InnerSource KPIs?`,
 this working group could ensure that there is a software project that will produce charts of InnerSource activity from sources like _GitHub_ and Jira.
-The project could be configured in a (finite) number of ways, depending on varying setup of _GitHub_ and Jira that affects tha report views.
+The project could be configured in a (finite) number of ways, depending on varying setup of _GitHub_ and Jira that affects that report views.
 
 These two examples follow the same pattern - providing directly-usable materials that help ISPOs to advance their mission in their company.
 
@@ -36,7 +36,7 @@ These two examples follow the same pattern - providing directly-usable materials
 
 To chat with everybody in the ISPO working group, please join us in the _[#ispo-working-group][]_ channel in [slack][].
 
-There is also have a meeting every other week where we discuss work in progress and new challenges that we are working on. Find details in slack.
+There is also a meeting every other week where we discuss work in progress and new challenges that we are working on. Find details in slack.
 
 If you want to share details about an InnerSource challenge that you are working in your day job, please open a [new issue](https://github.com/InnerSourceCommons/ispo-working-group/issues) on this repo.
 
