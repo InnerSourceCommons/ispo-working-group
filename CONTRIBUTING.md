@@ -13,6 +13,9 @@ Create a new card in the **No Status** column describing your contribution and t
     * Assign the new card to yourself.
     * Learn more about the next Working Group meeting by joining [#ispo-working-group] in [InnerSource Commons Slack].
     * During the meeting, discuss your card and what you plan to contribute.
+    * Your contribution could go in a few places depending on its nature:
+      - If it can be [expressed as a pattern](https://github.com/InnerSourceCommons/InnerSourcePatterns#what-are-innersource-patterns) then in the [InnerSource Patterns repo][Patterns].
+      - 
 
 2. Review others' content.
 
@@ -36,10 +39,12 @@ This could be to write an article, code up a tool, create a training video, etc.
 1. **Validated**.  More than one company is using the solution.
 
 A regular meeting proposes new challenges, discusses ideas, and demos solutions.
-In many cases, solutions are shareable with other InnerSource Commons working groups; (e.g. [Patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns), [Learning Path](https://github.com/InnerSourceCommons/InnerSourceLearningPath)).
+In many cases, solutions are shareable with other InnerSource Commons working groups; (e.g. [Patterns], [Learning Path](https://github.com/InnerSourceCommons/InnerSourceLearningPath)).
 
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
 [joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new/choose
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [InnerSource Commons Slack]: https://innersourcecommons.org/slack
 [README.md]: ./README.md
+
+[Patterns]: https://github.com/InnerSourceCommons/InnerSourcePatterns
