@@ -1,20 +1,17 @@
+# See https://github.com/InnerSourceCommons/working-group-roles for an explanation of this file.
+
 title: "ISPO Working Group"
 description: "The purpose of this working group is to support InnerSource Program Offices (ISPOs) with materials needed to establish themselves, teach and scale InnerSource in their respective company. This material could be directed towards senior leaders, managers, or individuals in a variety of roles."
 
-# The name only of your repo exactly.
 baseurl: "ispo-working-group" 
 
-# This should stay as "https://innersourcecommons.github.io/"
 url: "https://innersourcecommons.github.io/"
 
 links:
-  # The web URL to your Slack channel.
-  # You can find it by logging in at https://innersourcecommons.slack.com/, navigating to your channel, and copying the URL.
+  # The #ispo-working-group channel in the innersourcecommons Slack.
   chat: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
   
-  # The web URL to the folder that has your meeting agendas.
-  # This is somewhere in the InnerSource Commons Google Drive (https://drive.google.com/drive/folders/0B2FGN9Kd_fgSMDhJU1Nna0Njbm8).
+  # The "ISPO Working Group" folder.
   folder: https://drive.google.com/drive/folders/1vFJPuQ5l0hKIlC58qjdV1MNSIhdoSBCz
 
-# This should stay as InnerSourceCommons/working-group-roles
 remote_theme: InnerSourceCommons/working-group-roles
