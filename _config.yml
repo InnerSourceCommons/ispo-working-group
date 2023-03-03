@@ -1,0 +1,17 @@
+# See https://github.com/InnerSourceCommons/working-group-roles for an explanation of this file.
+
+title: "ISPO Working Group"
+description: "The purpose of this working group is to support InnerSource Program Offices (ISPOs) with materials needed to establish themselves, teach and scale InnerSource in their respective company. This material could be directed towards senior leaders, managers, or individuals in a variety of roles."
+
+baseurl: "ispo-working-group" 
+
+url: "https://innersourcecommons.github.io/"
+
+links:
+  # The #ispo-working-group channel in the innersourcecommons Slack.
+  chat: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
+  
+  # The "ISPO Working Group" folder.
+  folder: https://drive.google.com/drive/folders/1vFJPuQ5l0hKIlC58qjdV1MNSIhdoSBCz
+
+remote_theme: InnerSourceCommons/working-group-roles
