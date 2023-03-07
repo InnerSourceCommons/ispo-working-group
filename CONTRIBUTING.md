@@ -19,7 +19,7 @@ Create a new card in the **No Status** column describing your contribution and t
     * Find something interesting on the [Kanban board].
     * Write a comment on the card indicating your interest.
 
-3. Attend working group meeting.
+3. Attend a working group meeting.
 
     * The [InnerSource Commons Slack] [#ispo-working-group] community will post the next meeting.
 
