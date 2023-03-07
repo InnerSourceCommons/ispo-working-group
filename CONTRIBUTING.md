@@ -29,7 +29,8 @@ Create a new card in the **No Status** column describing your contribution and t
 We track this production on a [Kanban board] with the following columns:
 
 1. **Challenge**.  This means that we've identified such-and-such a thing as a challenge.
-1. **Proposed**.  We have a proposal for a solution to the challenge.
+2. **In Progress**.  Someone is working on a proposal for a solution to the challenge.
+3. **Proposed**.  We have a proposal for a solution to the challenge.
 This could be to write an article, code up a tool, create a training video, etc.
 1. **Internal**.  We have implemented the solution internally in a company.
 1. **External**.  We have made the solution available externally.
