@@ -9,8 +9,9 @@ Check out our [README.md] for more details.
 
     * We track contributions on this [Kanban board].
     * Get access to contribute to the board by [joining the ISPO Working Group team].
-Create a new card in the **No Status** column describing your contribution and the challenge it helps solve.
+    * Create a new card in the **No Status** column describing your contribution and the challenge it helps solve.
     * Assign the new card to yourself.
+    * Check to see if your contribution is related to any of the existing [InnerSource Patterns].
     * Learn more about the next Working Group meeting by joining [#ispo-working-group] in [InnerSource Commons Slack].
     * During the meeting, discuss your card and what you plan to contribute.
 
@@ -44,3 +45,4 @@ In many cases, solutions are shareable with other InnerSource Commons working gr
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [InnerSource Commons Slack]: https://innersourcecommons.org/slack
 [README.md]: ./README.md
+[InnerSource Patterns]: https://patterns.innersourcecommons.org/
