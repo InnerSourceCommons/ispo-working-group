@@ -45,4 +45,4 @@ In many cases, solutions are shareable with other InnerSource Commons working gr
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [InnerSource Commons Slack]: https://innersourcecommons.org/slack
 [README.md]: ./README.md
-[InnerSource Patterns]: https://patterns.innersourcecommons.org/
+[InnerSource Patterns]: https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns
