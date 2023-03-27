@@ -30,7 +30,7 @@ When contributing new content, it can go into one of a few locations:
 * If it can be represented as a pattern, then contribute it to the [InnerSource Patterns] project.
 Be sure to check if there is an existing pattern that you can just update.
 * If it can be represented as a training segment, then contribute it to the [InnerSource Learning Path] project.
-* Documents that don't fit either of these categories (e.g. graphics, opinionated document, etc.) can go directly this `ispo-working-group` repo as markdown.
+* Documents that don't fit either of these categories (e.g. graphics, opinionated document, etc.) can go directly into this `ispo-working-group` repo as markdown.
 If your content cannot be represented in markdown (or you are not comfortable working in the markdown) then you can put it in the [ISPO Working Group GDrive].
  
 ## Project Board
