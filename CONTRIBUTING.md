@@ -24,6 +24,17 @@ Check out our [README.md] for more details.
 
     * The [InnerSource Commons Slack] [#ispo-working-group] community will post the next meeting.
 
+## New Content
+
+When contributing new content, it can go into one of a few locations:
+
+* If it can be represented as a pattern, then contribute it to the [InnerSource Patterns] project.
+Be sure to check if there is an existing pattern that you can just update.
+* If it can be represented as a training segment, then contribute it to the [InnerSource Learning Path] project.
+* Documents that don't fit either of these categories (e.g. graphics, opinionated document, etc.) can go directly into this `ispo-working-group` repo as markdown.
+If your content cannot be represented in markdown (or you are not comfortable working in markdown) then you can put it in the [ISPO Working Group GDrive].
+This content may be converted to markdown later.
+ 
 ## Project Board
 
  InnerSource solutions to challenges are discovered, produced, and spread in this working group.
@@ -38,11 +49,13 @@ This could be to write an article, code up a tool, create a training video, etc.
 1. **Validated**.  More than one company is using the solution.
 
 A regular meeting proposes new challenges, discusses ideas, and demos solutions.
-In many cases, solutions are shareable with other InnerSource Commons working groups; (e.g. [Patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns), [Learning Path](https://github.com/InnerSourceCommons/InnerSourceLearningPath)).
+In many cases, solutions are shareable with other InnerSource Commons working groups; (e.g. [Patterns][InnerSource Patterns], [Learning Path][InnerSource Learning Path]).
 
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
 [joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new/choose
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [InnerSource Commons Slack]: https://innersourcecommons.org/slack
 [README.md]: ./README.md
+[InnerSource Learning Path]: https://github.com/InnerSourceCommons/InnerSourceLearningPath
+[ISPO Working Group GDrive]: https://drive.google.com/drive/folders/1zhP_wQQFf1cIHnkTUZtBGuLhEUYXzvlC
 [InnerSource Patterns]: https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns
