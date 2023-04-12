@@ -35,7 +35,7 @@ Be sure to check if there is an existing pattern that you can just update.
 If your content cannot be represented in markdown (or you are not comfortable working in markdown) then you can put it in the [ISPO Working Group GDrive].
 This content may be converted to markdown later.
 
-Regardless of where the content is created, you should attribute all the contributors to the resulting work (e.g. in the _Authors_ or _Aknowledgement_ sections of Patterns).
+Regardless of where the content is created, you should attribute all the contributors to the resulting work (e.g. in the _Authors_ or _Acknowledgements_ sections of Patterns).
  
 ## Project Board
 
