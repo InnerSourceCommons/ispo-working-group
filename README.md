@@ -31,7 +31,7 @@ We don't want practitioners to have the overhead of figuring out over and over a
 Ideally every text article in the handbook has an accompanying video.
 People like to watch training videos, so it makes the content more accessible to them.
 
-Once there is a concrete example of some content that contains these 3 parts, then we will link to it here as an example (tracked via [#53](https://github.com/InnerSourceCommons/ispo-working-group/issues/53).
+Once there is a concrete example of some content that contains these 3 parts, we will link to it here as an example (tracked via [#53](https://github.com/InnerSourceCommons/ispo-working-group/issues/53)).
 
 ## Principles
 
