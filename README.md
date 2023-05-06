@@ -15,7 +15,7 @@ yet specific enough that people in the company can leverage them to solve their 
 
 ## Implementation
 
-We expect to create together The Handbook of InnerSource, which contains our collective, practical knowledge of how to run InnerSource projects and programs.
+We expect to create together **The Handbook of InnerSource**, which contains our collective, practical knowledge of how to run InnerSource projects and programs.
 The goal is that a new practioner can implement the instruction in the handbook and be successful with it in their InnerSource goals.
 We expect that the handbook will have various sections for the different personas and roles involved with InnerSource, e.g. ISPO group, engineering managers, product leaders, individual engineers, etc.
 The handbook may look something like the [Managing InnerSource Projects](https://innersourcecommons.gitbook.io/managing-inner-source-projects/) book and, in fact, may end up being a superset and subsume the content there.
