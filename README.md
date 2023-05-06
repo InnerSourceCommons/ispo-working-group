@@ -23,7 +23,7 @@ The handbook may look something like the [Managing InnerSource Projects](https:/
 We imagine that content in the handbook will consist of 3 parts:
 1. A general pattern describing, at a high level, what to do for some aspect of InnerSource.
 This is important so that the general principles and approaches of InnerSource are captured.
-This part of the content may be similar to the conten tin the existing [InnerSource Patterns](https://innersourcecommons.org/learn/books/innersource-patterns/) book.
+This part of the content may be similar to the content in the existing [InnerSource Patterns](https://innersourcecommons.org/learn/books/innersource-patterns/) book.
 1. (Multiple) examples of how that pattern is implemented in different contexts.
 These concrete examples are important because they allow practioners to select the implementation that matches their context and then execute the described implementation.
 We don't want practitioners to have the overhead of figuring out over and over again how to adapt a pattern to their given context.
