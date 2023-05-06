@@ -13,6 +13,26 @@ Our goal is to document these sets of solutions to challenges, make it easy for 
 These implementations will likely be documents, videos, or code, each of which is generic enough to be used across companies,
 yet specific enough that people in the company can leverage them to solve their problems without needing notable amounts of company-specific work.
 
+## Implementation
+
+We expect to create together The Handbook of InnerSource, which contains our collective, practical knowledge of how to run InnerSource projects and programs.
+The goal is that a new practioner can implement the instruction in the handbook and be successful with it in their InnerSource goals.
+We expect that the handbook will have various sections for the different personas and roles involved with InnerSource, e.g. ISPO group, engineering managers, product leaders, individual engineers, etc.
+The handbook may look something like the [Managing InnerSource Projects](https://innersourcecommons.gitbook.io/managing-inner-source-projects/) book and, in fact, may end up being a superset and subsume the content there.
+
+We imagine that content in the handbook will consist of 3 parts:
+1. A general pattern describing, at a high level, what to do for some aspect of InnerSource.
+This is important so that the general principles and approaches of InnerSource are captured.
+This part of the content may be similar to the conten tin the existing [InnerSource Patterns](https://innersourcecommons.org/learn/books/innersource-patterns/) book.
+1. (Multiple) examples of how that pattern is implemented in different contexts.
+These concrete examples are important because they allow practioners to select the implementation that matches their context and then execute the described implementation.
+We don't want practitioners to have the overhead of figuring out over and over again how to adapt a pattern to their given context.
+1. Explanatory videos that describe the general pattern or its example implementations (separate vidoes for each).
+Ideally every text article in the handbook has an accompanying video.
+People like to watch training videos, so it makes the content more accessible to them.
+
+Once there is a concrete example of some content that contains these 3 parts, then we will link to it here as an example (tracked via [#53](https://github.com/InnerSourceCommons/ispo-working-group/issues/53).
+
 ## Principles
 
 * **Progress over perfection** — Even if a solution doesn't work for all companies, we'll still put it out there.
