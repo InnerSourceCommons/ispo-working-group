@@ -33,7 +33,7 @@ People like to watch training videos, so it makes the content more accessible to
 
 Click through for a diagram showing what this might look like.
 
-[<img src="https://github.com/InnerSourceCommons/ispo-working-group/assets/9609562/de4e1b79-1d1c-41ad-8f2d-c1d612fed649" width="50%" />](https://miro.com/app/board/uXjVM_OGfjY=/?share_link_id=847940150984)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/9609562/245475861-de4e1b79-1d1c-41ad-8f2d-c1d612fed649.png" width="50%" />](https://miro.com/app/board/uXjVM_OGfjY=/)
 
 Some comments on this approach:
 * For a given article, not all 3 parts of it (pattern, implementation, video) need to be done at once.
