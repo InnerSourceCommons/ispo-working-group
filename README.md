@@ -38,7 +38,7 @@ Click through for a diagram showing what this might look like.
 Some comments on this approach:
 * For a given article, not all 3 parts of it (pattern, implementation, video) need to be done at once.
 The handbook should be able to render any combination of one, two, or three of these so that people can contribute whatever part(s) they're interested in.
-* If this approach works well and is useful, then it may subsume most of the content from the existing Learning Path and Pattenrs working groups.
+* If this approach works well and is useful, then it may subsume most of the content from the existing Learning Path and Patterns working groups.
 
 Once there is a concrete example of some content that contains these 3 parts, we will link to it here as an example (tracked via [#53](https://github.com/InnerSourceCommons/ispo-working-group/issues/53)).
 
