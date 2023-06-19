@@ -37,8 +37,11 @@ Click through for a diagram showing what this might look like.
 Some comments on this approach:
 * For a given article, not all 3 parts of it (pattern, implementation, video) need to be done at once.
 The handbook should be able to render any combination of one, two, or three of these so that people can contribute whatever part(s) they're interested in.
-* If this approach works well and is useful, then it may subsume most of the content from the existing Learning Path and Patterns working groups.
 * The handbook may look something like the [Managing InnerSource Projects](https://innersourcecommons.gitbook.io/managing-inner-source-projects/) book and, in fact, may end up being a superset and subsume the content there.
+* If this approach works well and is useful, then it may subsume most of the content from the existing Learning Path and Patterns working groups.
+The advantage of this handbook format over those existing projects is the way it gives first-class constructs to:
+  - Tie together general patterns with (multiple) explicit instructions of how to implement those patterns.
+  - Incorporate a chance for video along with every written article.
 
 Once there is a concrete example of some content that contains these 3 parts, we will link to it here as an example (tracked via [#53](https://github.com/InnerSourceCommons/ispo-working-group/issues/53)).
 
