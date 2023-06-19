@@ -1,6 +1,6 @@
 # ISPO Working Group
 
-The purpose of this working group is to support InnerSource Program Offices (ISPOs) with materials needed to establish themselves, teach and scale InnerSource in their respective company.
+The purpose of this working group is to support InnerSource Program Offices (ISPOs) with materials needed to establish themselves, educate partners and stakeholders, and scale InnerSource in their respective company.
 This material could be directed towards senior leaders, managers, or individuals in a variety of roles.
 Check out our [CONTRIBUTING.md][] for specifics on how you can get involved.
 
