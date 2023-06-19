@@ -15,10 +15,9 @@ yet specific enough that people in the company can leverage them to solve their 
 
 ## Implementation
 
-We expect to create together **The Handbook of InnerSource**, which contains our collective, practical knowledge of how to run InnerSource projects and programs.
+For our teaching and training, we expect to create together **The Handbook of InnerSource**, which contains our collective, practical knowledge of how to run InnerSource projects and programs.
 The goal is that a new practioner can implement the instruction in the handbook and be successful with it in their InnerSource goals.
 We expect that the handbook will have various sections for the different personas and roles involved with InnerSource, e.g. ISPO group, engineering managers, product leaders, individual engineers, etc.
-The handbook may look something like the [Managing InnerSource Projects](https://innersourcecommons.gitbook.io/managing-inner-source-projects/) book and, in fact, may end up being a superset and subsume the content there.
 
 We imagine that content in the handbook will consist of 3 parts:
 1. A general pattern describing, at a high level, what to do for some aspect of InnerSource.
@@ -39,6 +38,7 @@ Some comments on this approach:
 * For a given article, not all 3 parts of it (pattern, implementation, video) need to be done at once.
 The handbook should be able to render any combination of one, two, or three of these so that people can contribute whatever part(s) they're interested in.
 * If this approach works well and is useful, then it may subsume most of the content from the existing Learning Path and Patterns working groups.
+* The handbook may look something like the [Managing InnerSource Projects](https://innersourcecommons.gitbook.io/managing-inner-source-projects/) book and, in fact, may end up being a superset and subsume the content there.
 
 Once there is a concrete example of some content that contains these 3 parts, we will link to it here as an example (tracked via [#53](https://github.com/InnerSourceCommons/ispo-working-group/issues/53)).
 
