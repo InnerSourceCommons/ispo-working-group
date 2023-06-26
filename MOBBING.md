@@ -22,7 +22,7 @@ flowchart TB
 
 1. *Establish* concise short-term objectives to tackle
 2. *Introduce* each voluntary role
-   1. **Driver** — A person who *types*
+   1. **Driver** — A person who *types* and shares their screen
       - Consider having a co-driver to *clean up grammar and typos*
    2. **Navigator** — A person who *proposes solutions to the problem*
    3. **Gallery** -— People who *observe, suggest, add TODOs and research*
