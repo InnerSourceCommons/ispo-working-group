@@ -24,6 +24,23 @@ Check out our [README.md] for more details.
 
     * The [InnerSource Commons Slack] [#ispo-working-group] community will post the next meeting.
 
+## Our Artifacts
+
+In addition to our [Kanban board] cards, we produce the following artifacts.
+
+```mermaid
+graph LR
+    WG[ISPO Working Group] --> GD[GitHub Discussions]
+    WG --> IP[InnerSource Patterns]
+    WG --> MI[Managing InnerSource Projects]
+    WG --> DR[Google Drive Docs]
+```
+
+[GitHub Discussions] — A place to collect ideas for .
+[InnerSource Patterns CONTRIBUTING.md] — General guidelines for customers of an ISPO.
+[Managing InnerSource Projects] — Articles, KPIs, and other resources for managing InnerSource projects.
+[Google Drive Docs] — Slides, spreadsheets, and other artifacts that are not easily represented in elsewhere.
+
 ## New Content
 
 When contributing new content, it can go into one of a few locations:
@@ -61,3 +78,7 @@ In many cases, solutions are shareable with other InnerSource Commons working gr
 [InnerSource Learning Path]: https://github.com/InnerSourceCommons/InnerSourceLearningPath
 [ISPO Working Group GDrive]: https://drive.google.com/drive/folders/1zhP_wQQFf1cIHnkTUZtBGuLhEUYXzvlC
 [InnerSource Patterns]: https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns
+[InnerSource Patterns CONTRIBUTING.md]: https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/CONTRIBUTING.md
+[GitHub Discussions]: https://github.com/InnerSourceCommons/ispo-working-group/discussions
+[Managing InnerSource Projects]: https://innersourcecommons.org/learn/books/managing-innersource-projects/
+[Google Drive Docs]: https://drive.google.com/drive/folders/1FEpZ6ACO0yt5Q4BB6fz13_BplDc8CkVW
