@@ -49,8 +49,6 @@ When contributing new content, it can go into one of a few locations:
 Be sure to check if there is an existing pattern that you can just update.
 * If it can be represented as a training segment, then contribute it to the [InnerSource Learning Path] project.
 * Documents that don't fit either of these categories (e.g. graphics, opinionated document, etc.) can go directly into this `ispo-working-group` repo as markdown.
-If your content cannot be represented in markdown (or you are not comfortable working in markdown) then you can put it in the [ISPO Working Group GDrive].
-This content may be converted to markdown later.
 
 Regardless of where the content is created, you should attribute all the contributors to the resulting work (e.g. in the _Authors_ or _Acknowledgements_ sections of Patterns).
 
