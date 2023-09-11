@@ -47,7 +47,7 @@ Please file a [join working group][] issue, and an Admin will add you shortly.
 ## Trusted Committers
 
 These people regularly give their time to the running of the ISPO working group.
-Special thnaks to:
+Special thanks to:
 
 * Russ Rutledge ([@rrrutledge](https://github.com/rrrutledge))
 
