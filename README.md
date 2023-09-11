@@ -44,6 +44,13 @@ If you want to share details about an InnerSource challenge that you are working
 To work with our [Kanban board][] we need to add you to our GitHub team.
 Please file a [join working group][] issue, and an Admin will add you shortly.
 
+## Trusted Committers
+
+These people regularly give their time to the running of the ISPO working group.
+Special thnaks to:
+
+* Russ Rutledge ([@rrrutledge](https://github.com/rrrutledge))
+
 ## Recording
 
 Check out this presentation explaining the motivation, tasks, and goals of this working group.
