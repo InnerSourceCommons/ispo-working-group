@@ -65,7 +65,7 @@ A regular meeting proposes new challenges, discusses ideas, and demos solutions.
 Solutions are often shareable with other InnerSource Commons working groups (e.g., [Patterns][InnerSource Patterns], [Learning Path][InnerSource Learning Path]).
 
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
-[joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new/choose
+[joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new?title=Please%20add%20me%20to%20the%20ispo-working-group%20team```
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [InnerSource Commons Slack]: https://innersourcecommons.org/slack
 [README.md]: ./README.md
