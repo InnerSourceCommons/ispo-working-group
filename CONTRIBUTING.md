@@ -32,6 +32,7 @@ graph LR
 4. New content.
 
     * Add or improve content in the [Managing InnerSource Projects] book.
+    * [Add the InnerSource metrics](https://github.com/InnerSourceCommons/managing-inner-source-projects/blob/master/CONTRIBUTING.md#metrics) that you're tracking to the [industry graph](https://github.com/InnerSourceCommons/managing-inner-source-projects/blob/master/measuring/use_gqm.md).
     * If it's a pattern, go ahead and contribute to the [InnerSource Patterns] project.
     * Contribute training segments to the [InnerSource Learning Path] project.
     * Add slides, spreadsheets, and other artifacts not easily represented elsewhere to the [ISPO Working Group GDrive]  
