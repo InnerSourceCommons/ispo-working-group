@@ -57,7 +57,6 @@ Our solutions are often shareable with other InnerSource Commons working groups 
     * If it's a pattern, go ahead and contribute to the [InnerSource Patterns] project.
     * Contribute training segments to the [InnerSource Learning Path] project.
     * Add slides, spreadsheets, and other artifacts not easily represented elsewhere to the [ISPO Working Group GDrive]  
-    * Documents that don't fit the previous categories (e.g., graphics, opinionated documents, etc.) can go directly into this `ispo-working-group` repo as markdown.
 
 Regardless of where the content is created, you should attribute all the contributors to the resulting work (e.g., in the _Authors_ or _Acknowledgements_ sections of Patterns).
 
