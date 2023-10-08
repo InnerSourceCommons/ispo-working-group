@@ -50,6 +50,7 @@ These people regularly give their time to the running of the ISPO working group.
 Special thanks to:
 
 * Russ Rutledge ([@rrrutledge](https://github.com/rrrutledge))
+* Jeff Bailey ([@jeffabailey](https://github.com/jeffabailey))
 
 ## Recording
 
