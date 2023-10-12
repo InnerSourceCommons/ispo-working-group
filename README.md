@@ -2,6 +2,7 @@
 
 The purpose of this working group is to support InnerSource Program Offices (ISPOs) with materials needed to establish themselves, educate partners and stakeholders, and scale InnerSource in their respective company.
 This material could be directed towards senior leaders, managers, or individuals in a variety of roles.
+A lot of our work ends up in the [Managing InnerSource Projects] or [InnerSource Patterns] books.
 Check out our [CONTRIBUTING.md][] for specifics on how you can get involved.
 
 ## Summary
@@ -70,6 +71,7 @@ Find us in the _[#ispo-working-group][]_ channel in [slack][].
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [slack]: https://innersourcecommons.org/slack
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
-[Patterns]: https://github.com/InnerSourceCommons/InnerSourcePatterns
+[Managing InnerSource Projects]: https://innersourcecommons.org/learn/books/managing-innersource-projects/
+[InnerSource Patterns]: https://innersourcecommons.org/learn/books/innersource-patterns/
 [Learning Path]: https://github.com/InnerSourceCommons/InnerSourceLearningPath
 [join working group]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new?assignees=rrrutledge%2Cspier&labels=join-wg&template=join-wg.yml&title=%5Bjoin%5D+%3Cyour-name%3E
