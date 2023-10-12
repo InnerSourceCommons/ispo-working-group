@@ -27,7 +27,7 @@ graph LR
 3. [Kanban board].
 
 InnerSource solutions to challenges are discovered, produced, and spread in this working group.
-Contributions usually become added or improved content in the [Managing InnerSource Projects] book, [InnerSource Patterns] book, or [InnerSource Learning Path] segment.
+Contributions are usually added to or improve content in the [Managing InnerSource Projects] book, [InnerSource Patterns] book, or [InnerSource Learning Path] segment.
 Slides, spreadsheets, and other artifacts not easily represented elsewhere can go in the [ISPO Working Group GDrive].
 Be sure to attribute all the contributors to the resulting work (e.g., in the _Authors_ or _Acknowledgements_ sections of Patterns).
 
