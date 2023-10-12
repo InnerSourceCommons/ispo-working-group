@@ -48,7 +48,7 @@ A regular meeting proposes new challenges, discusses ideas, and demos solutions.
   1. Create a new card in the **No Status** column describing your contribution and the challenge it helps solve.
   1. Assign the new card to yourself by clicking the link on the card.
   1. Check if your contribution relates to existing [InnerSource Patterns].
-  1. Learn more about the next Working Group meeting by joining [#ispo-working-group] in [InnerSource Commons Slack].
+  1. Learn more about the next Working Group meeting by joining [#ispo-working-group] in the [InnerSource Commons Slack] workspace.
   1. During our meetings, discuss your card and what you plan to contribute.
 
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
