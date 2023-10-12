@@ -13,14 +13,25 @@ graph LR
     WG[ISPO Working Group] --> KB[Kanban Board]
     WG --> GD[Reviews]
     WG --> MU[Meetings]
-    WG --> IP[New Content]
 ```
 
-1. [Kanban board].
+1. Attend a working group meeting.
+
+    * The [InnerSource Commons Slack] [#ispo-working-group] community will post the next meeting.
+
+2. Review others' content.
+
+    * Find something interesting on the [Kanban board].
+    * Write a comment on the card indicating your interest.
+
+3. [Kanban board].
 
 InnerSource solutions to challenges are discovered, produced, and spread in this working group.
+Contributions usually become added or improved content in the [Managing InnerSource Projects] book, [InnerSource Patterns] book, or [InnerSource Learning Path] segment.
+Slides, spreadsheets, and other artifacts not easily represented elsewhere can go in the [ISPO Working Group GDrive].
+Be sure to attribute all the contributors to the resulting work (e.g., in the _Authors_ or _Acknowledgements_ sections of Patterns).
 
-To contribute Get access to contribute to the board by [joining the ISPO Working Group team].
+To contribute, get access to contribute to the board by [joining the ISPO Working Group team].
 
 We track production of our content on a [Kanban board] with the following columns:
 
@@ -34,31 +45,11 @@ This could be to write an article, code up a tool, create a training video, etc.
 
 A regular meeting proposes new challenges, discusses ideas, and demos solutions.
 
-1. Create a new card in the **No Status** column describing your contribution and the challenge it helps solve.
-1. Assign the new card to yourself by clicking the link on the card.
-1. Check if your contribution relates to existing [InnerSource Patterns].
-1. Learn more about the next Working Group meeting by joining [#ispo-working-group] in [InnerSource Commons Slack].
-1. During our meetings, discuss your card and what you plan to contribute.
-
-Our solutions are often shareable with other InnerSource Commons working groups (e.g., [Patterns][InnerSource Patterns], [Learning Path][InnerSource Learning Path]).
-
-1. Review others' content.
-
-    * Find something interesting on the [Kanban board].
-    * Write a comment on the card indicating your interest.
-
-2. Attend a working group meeting.
-
-    * The [InnerSource Commons Slack] [#ispo-working-group] community will post the next meeting.
-
-3. New content.
-
-    * Add or improve content in the [Managing InnerSource Projects] book.
-    * If it's a pattern, go ahead and contribute to the [InnerSource Patterns] project.
-    * Contribute training segments to the [InnerSource Learning Path] project.
-    * Add slides, spreadsheets, and other artifacts not easily represented elsewhere to the [ISPO Working Group GDrive]  
-
-Regardless of where the content is created, you should attribute all the contributors to the resulting work (e.g., in the _Authors_ or _Acknowledgements_ sections of Patterns).
+  1. Create a new card in the **No Status** column describing your contribution and the challenge it helps solve.
+  1. Assign the new card to yourself by clicking the link on the card.
+  1. Check if your contribution relates to existing [InnerSource Patterns].
+  1. Learn more about the next Working Group meeting by joining [#ispo-working-group] in [InnerSource Commons Slack].
+  1. During our meetings, discuss your card and what you plan to contribute.
 
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
 [joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new/choose
