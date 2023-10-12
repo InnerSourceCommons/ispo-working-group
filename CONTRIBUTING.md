@@ -31,7 +31,7 @@ Contributions are usually added to or improve content in the [Managing InnerSour
 Slides, spreadsheets, and other artifacts not easily represented elsewhere can go in the [ISPO Working Group GDrive].
 Be sure to attribute all the contributors to the resulting work (e.g., in the _Authors_ or _Acknowledgements_ sections of Patterns).
 
-To contribute, get access to contribute to the board by [joining the ISPO Working Group team].
+To contribute, get access to the board by [joining the ISPO Working Group team].
 
 We track production of our content on a [Kanban board] with the following columns:
 
