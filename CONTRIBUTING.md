@@ -59,4 +59,4 @@ A regular meeting proposes new challenges, discusses ideas, and demos solutions.
 [InnerSource Learning Path]: https://github.com/InnerSourceCommons/InnerSourceLearningPath
 [ISPO Working Group GDrive]: https://drive.google.com/drive/folders/1zhP_wQQFf1cIHnkTUZtBGuLhEUYXzvlC
 [InnerSource Patterns]: https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns
-[Managing InnerSource Projects]: https://innersourcecommons.org/learn/books/managing-innersource-projects/
+[Managing InnerSource Projects]: https://github.com/InnerSourceCommons/managing-inner-source-projects
