@@ -8,6 +8,8 @@ Check out our [README.md] for more details.
 
 ## Ways to Contribute
 
+### To the working group
+
 ```mermaid
 graph LR
     WG[ISPO Working Group] --> KB[Kanban Board]
@@ -50,6 +52,12 @@ A regular meeting proposes new challenges, discusses ideas, and demos solutions.
   1. Check if your contribution relates to existing [InnerSource Patterns].
   1. Learn more about the next Working Group meeting by joining [#ispo-working-group] in the [InnerSource Commons Slack] workspace.
   1. During our meetings, discuss your card and what you plan to contribute.
+
+### To the documentation on this repository
+
+Simply send a pull request to this repository to contribute.
+Note that the rendered website at <https://innersourcecommons.github.io/ispo-working-group/> is using a Jekyll theme that comes from <https://github.com/InnerSourceCommons/working-group-roles>. 
+Some element you see in the rendered webpage are coming from the theme (e.g. the roles), so you may have to contribute there instead.
 
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
 [joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new/choose
