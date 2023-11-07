@@ -111,6 +111,8 @@ and want to hear how things they are actively considering have worked out at oth
 
 "How do you set up GitHub, GitLab, etc. configuration at an enterprise level to best balance security and collaboration?"
 
+![sm_right](../assets/InnerSourceGitBookCover.png)
+
 <!-- KEY MESSAGE 10:  
 What is source control management
 -->
