@@ -159,6 +159,8 @@ Why did I from contributing to collecting examples of how different companies ar
 
 Deliver valuable products through collaborative efforts, accommodating participants' availability and interest 
 
+![sm_right](../assets/managing-inner-source-projects-cover.jpg)
+
 <!-- KEY MESSAGE 14: How: How the working group operates, and how the audience can contribute in ways that maximize the benefits of the working group for their own needs -->
 
 --- 
