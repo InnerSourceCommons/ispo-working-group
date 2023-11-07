@@ -99,7 +99,6 @@ Examples of products we are working on specifically for teams that drive InnerSo
 
 <!-- KEY MESSAGE 9:  
 Focus is to support the people/teams that do InnerSource organization-wide
-
 These are all areas where many people in the working group have tried different things, have different lessons to share, 
 and want to hear how things they are actively considering have worked out at other companies. 
 -->
@@ -111,7 +110,7 @@ and want to hear how things they are actively considering have worked out at oth
 
 "How do you set up GitHub, GitLab, etc. configuration at an enterprise level to best balance security and collaboration?"
 
-![sm_right](../assets/InnerSourceGitBookCover.png)
+![sm_right](../assets/SCM_table_screenshot.png)
 
 <!-- KEY MESSAGE 10:  
 What is source control management
