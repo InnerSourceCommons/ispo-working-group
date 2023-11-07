@@ -110,7 +110,7 @@ and want to hear how things they are actively considering have worked out at oth
 
 "How do you set up GitHub, GitLab, etc. configuration at an enterprise level to best balance security and collaboration?"
 
-![sm_right](../assets/SCM_table_screenshot.png)
+![width:800px](../assets/SCM_table_screenshot.png)
 
 <!-- KEY MESSAGE 10:  
 What is source control management
@@ -158,9 +158,12 @@ Why did I from contributing to collecting examples of how different companies ar
 
 ## How the ISPO working group operates
 
-Deliver valuable products through collaborative efforts, accommodating participants' availability and interest 
+Deliver valuable products reusable inside our companies through collaborative efforts, accommodating participants' availability and interest
 
-![sm_right](../assets/managing-innersource-projects-cover.jpg)
+- Website pages documenting patterns and methodologies
+- GitBooks
+
+![bg right:40%](../assets/managing-innersource-projects-cover.jpg)
 
 <!-- KEY MESSAGE 14: How: How the working group operates, and how the audience can contribute in ways that maximize the benefits of the working group for their own needs -->
 
