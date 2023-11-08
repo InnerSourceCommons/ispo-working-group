@@ -136,7 +136,8 @@ What did I get from contributing to Source Code Management project?
 
 #### InnerSource Metrics include: 
 
-NEEDS EXAMPLE HERE 
+* **Usage count** — how many times the InnerSource project is used.
+* **Code contributions** — Count of commits that do not come from the project owner. 
 
 <!-- KEY MESSAGE 12:  
 Are the the metrics being collected, why, and give examples of different companies?
@@ -145,14 +146,16 @@ Are the the metrics being collected, why, and give examples of different compani
 ---
 <!--- Slide 13 --->
 
-Why did I from contributing to collecting examples of how different companies are doing these metrics?
+How did I benefit from collecting examples of how different companies are using these metrics?
 
 <!-- KEY MESSAGE 12:  
  (Jeff)
- 
- NEEDS POPULATED
--->
 
+I built connections with people facing the same challenges as me. As a result of contributing to the metrics project, I have a network of people I can reach out to when I have questions or need advice.
+
+My future self will also benefit when it comes time to begin measuring InnerSource projects at my company. I will have a list of metrics that have been used by other companies, and I will know who to reach out to for advice.
+ 
+-->
 
 --- 
 <!--- Slide 14 --->
