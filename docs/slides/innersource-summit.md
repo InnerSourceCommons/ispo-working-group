@@ -1,7 +1,7 @@
 # The InnerSource Program Office (ISPO) Working Group
 <!---  Slide 2: Opening Statement --->
 
-![bg right](../assets/innersource-commons.svg)
+![bg right 60%](../assets/innersource-commons.svg)
 
 The InnerSource Program Office (ISPO) Working Group develops guidance and products for enterprise InnerSource teams, not individuals or projects.
 
@@ -11,7 +11,7 @@ The InnerSource Program Office (ISPO) Working Group develops guidance and produc
 -->
 --- 
 <!--- Slide 3 --->
-
+![bg right 60%](../assets/ispo-participants.svg)
 For those with InnerSource responsibilities in an OSPO, platform engineering, or other centralized group, this working group is for you.
 
 <!-- KEY MESSAGE 3:  -->
