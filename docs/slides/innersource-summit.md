@@ -90,6 +90,7 @@ NO eat your brocolli speech. Benefits are to the individual.
 
 --- 
 <!--- Slide 9 --->
+![bg right](../assets/gqm_landing_page.png)
 
 Examples of products we are working on specifically for teams that drive InnerSource company-wide:
 
