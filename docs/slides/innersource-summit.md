@@ -7,7 +7,7 @@ marp: true
 
 ![bg right 60%](../assets/innersource-commons.svg)
 
-The InnerSource Program Office (ISPO) Working Group develops guidance and products for enterprise InnerSource teams, not individuals or projects.
+The InnerSource Program Office (ISPO) Working Group creates resources for enterprise InnerSource teams.
 
 <!--
 1. Define an ISPO
