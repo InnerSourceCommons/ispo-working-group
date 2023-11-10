@@ -16,8 +16,11 @@ The InnerSource Program Office (ISPO) Working Group creates resources for enterp
 --- 
 <!--- Slide 3 --->
 ![bg right 60%](../assets/ispo-participants.svg)
-For those with InnerSource responsibilities in an OSPO, platform engineering, or other centralized group, this working group is for you.
+If you're in any of these groups, we invite you to join us:
 
+* InnerSource responsibilities in an Open Source Program Office (OSPO)
+* Platform Engineering Teams
+* Other centralized groups such as Enterprice Architecture
 <!-- KEY MESSAGE 3:  -->
 
 --- 
