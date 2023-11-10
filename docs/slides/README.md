@@ -34,3 +34,13 @@ git commit -m "Add slide deck"
 ```
 
 Alternatively, install the [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) extension and use the "Marp: Export slide deck" command to export the slide deck to HTML and PDF.
+
+Remember to use the "Marp: Open preview to the side" command to preview the slide deck in VS Code to save time rather than exporting the slide deck to PDF every time you make a change.
+
+The markdown file must have this header to render correctly:
+
+```markdown
+---
+marp: true
+---
+```
