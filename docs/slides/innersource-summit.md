@@ -15,7 +15,7 @@ The InnerSource Program Office (ISPO) Working Group creates resources for enterp
 -->
 --- 
 <!--- Slide 3 --->
-![bg right 60%](../assets/ispo-participants.svg)
+![bg right 60%](../assets/ispo-participants.png)
 If you're in any of these groups, we invite you to join us:
 
 * InnerSource responsibilities in an Open Source Program Office (OSPO)
@@ -141,7 +141,9 @@ What did I get from contributing to Source Code Management project?
 
 <!--- Slide 12--->
 
-#### InnerSource Metrics include: 
+![bg right](../assets/gqm-landing-page.png)
+
+#### Example InnerSource Metrics
 
 * **Usage count** — how many times the InnerSource project is used.
 * **Code contributions** — Count of commits that do not come from the project owner. 
