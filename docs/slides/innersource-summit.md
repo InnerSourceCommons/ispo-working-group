@@ -20,7 +20,7 @@ If you're in any of these groups, we invite you to join us:
 
 * InnerSource responsibilities in an Open Source Program Office (OSPO)
 * Platform Engineering Teams
-* Other centralized groups such as Enterprice Architecture
+* Other centralized groups such as Enterprise Architecture
 <!-- KEY MESSAGE 3:  -->
 
 --- 
