@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # The InnerSource Program Office (ISPO) Working Group
 <!---  Slide 2: Opening Statement --->
 
@@ -190,6 +194,8 @@ Deliver valuable products reusable inside our companies through collaborative ef
 <!--- Slide 16 --->
 
 ## How we work
+
+![bg right 60%](../assets/ways-to-contribute.png)
 
 1. Kanban board _(GitHub)_
 2. Peer review _(GitHub)_
