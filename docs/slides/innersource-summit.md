@@ -97,7 +97,7 @@ NO eat your brocolli speech. Benefits are to the individual.
 
 --- 
 <!--- Slide 9 --->
-![bg right](../assets/gqm_landing_page.png)
+![bg right](../assets/gqm-landing-page.png)
 
 Examples of products we are working on specifically for teams that drive InnerSource company-wide:
 
@@ -118,7 +118,7 @@ and want to hear how things they are actively considering have worked out at oth
 
 "How do you set up GitHub, GitLab, etc. configuration at an enterprise level to best balance security and collaboration?"
 
-![width:800px](../assets/SCM_table_screenshot.png)
+![width:800px](../assets/SCM-table-screenshot.png)
 
 <!-- KEY MESSAGE 10:  
 What is source control management
