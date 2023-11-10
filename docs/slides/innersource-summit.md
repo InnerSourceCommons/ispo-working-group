@@ -26,7 +26,7 @@ If you're in any of these groups, we invite you to join us:
 --- 
 <!--- Slide 4 --->
 
-But what is an ISPO?
+But what is an InnerSource Program Office (ISPO)?
 
 "Person(s) working on improving the internal code collaboration experience at full organization scale"
 
