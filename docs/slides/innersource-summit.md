@@ -71,7 +71,7 @@ WHY: The scope of the InnerSource Programs Office (ISPO) working group is more f
 --- 
 <!--- Slide 6 --->
 
-Our goal for this talk is to get people to learn more about the ISPO working group
+Our objective is to help you discover the benefits of our ISPO working group.
 
 https://github.com/InnerSourceCommons/ispo-working-group/blob/main/CONTRIBUTING.md
 
