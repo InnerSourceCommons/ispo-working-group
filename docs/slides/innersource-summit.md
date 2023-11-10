@@ -60,7 +60,6 @@ Introduce OSPO vs. ISPO. You don't formally need an ISPO for this content to be 
 
 Q: WHY is the ISPO working group a subset of InnerSource Commons?
 
-A: Our focus on accelerating the teams that run and support InnerSource across an organization rather than guidance for projects or individuals
 A: We focus on accelerating teams that run and support InnerSource across an organization rather than individuals.
 <!-- KEY MESSAGE 8:  
 WHY: The scope of the InnerSource Programs Office (ISPO) working group is more focused on the teams that run and support InnerSource across an organization rather than guidance for projects or individuals
