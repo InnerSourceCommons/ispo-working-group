@@ -42,7 +42,8 @@ be it on an OSPO, platform engineering, or any other centralized group.
 <!--- Slide 5 --->
 
 ## Lots of overlap
-OSPO <-> ISPO <-> Platform Engineering <-> Internal Engineering <-> Software Engineering Community of Practice
+
+![bg right 60%](../assets/working-group-overlap.png)
 
 You don't formally need an ISPO for this content to be useful
 
