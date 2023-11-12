@@ -234,7 +234,9 @@ All projects within the working group undergo peer review as they progress throu
 
 ---
 <!---  Slide 17: Closing Point of View --->
-### The ISPO working group can be your force multiplier!
+![bg right 60%](../assets/creative.png)
+
+***The ISPO working group can be your force multiplier!***
 
 * Produce content at lower cost collaboratively
 * Get feedback from deeply experienced people in your niche
@@ -248,11 +250,17 @@ E.g. in peoples' company backlog there are tickets that talk about them working 
 
 <!---  Slide 18: Specific Action --->
 
+![bg right 60%](../assets/collaboration.png)
+
 Attend an ISPO working group meeting
 
-Get meeting invites by adding an issue: https://github.com/InnerSourceCommons/ispo-working-group/issues/new
+Get meeting invites by adding an issue:
 
-<!-- Slide 18: Specific Actio: DO THIS ONE THING RIGHT NOW 
+https://github.com/InnerSourceCommons/ispo-working-group/issues/new
+
+<!-- Slide 18: Specific Action: DO THIS ONE THING RIGHT NOW 
+
+Attend the ISPO working group meeting on November 20th at 8 AM, or join us for the next one two weeks later. 
 
 -->
 
@@ -265,7 +273,9 @@ Our InnerSource Working Group has the same benefits as open source.
 
 <!-- Slide 19: Benefits of Action
 
-We already know the benefits of Open Source. Our InnerSource Working Group provides you the same benefits.
+We already know the benefits of Open Source. Our InnerSource Working Group provides you the same benefits. 
+
+Collaboration opportunities, code reuse, knowedge sharing through community, and more.
 
 -->
 
