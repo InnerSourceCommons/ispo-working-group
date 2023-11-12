@@ -151,26 +151,34 @@ What did I get from contributing to Source Code Management project?
 
 ![bg right](../assets/gqm-landing-page.png)
 
-#### Example InnerSource Metrics
+***Example InnerSource Metrics***
 
-* **Usage count** — how many times the InnerSource project is used.
-* **Code contributions** — Count of commits that do not come from the project owner.
+👀 **Usage count** — how many times the InnerSource project is used.
+🤝 **Code contributions** — Count of commits not from the project owner.
 
 <!-- Slide 12: Key Message 
 
-Are the the metrics being collected, why, and give examples of different companies?
+What are InnerSource Metrics?
+
+To demonstrate the value of InnerSource, we need to measure it. As ISPO leaders, we're often asked to articulate the value of InnerSource to our stakeholders. Using the InnerSource Metrics project, we can measure the value of InnerSource meaningfully to our stakeholders.
+
+For example, usage count demonstrates the reuse of code or other valuable artifacts that would otherwise be duplicated, and code contributions demonstrate collaboration's value, leading to trust and longer employee retention.
+
+We've built a graph of Goals, Questions, and Metrics to help you answer your stakeholders' questions.
 -->
 
 ---
 <!--- Slide 13: Key Message --->
 
-How did I benefit from collecting examples of how different companies are using these metrics?
+How did I benefit from collecting these goals, questions, and metrics?
 
 <!-- Slide 13: Key Message
 
-I built connections with people facing the same challenges as me. As a result of contributing to the metrics project, I have a network of people I can reach out to when I have questions or need advice.
+Through my involvement in the metrics project, I didn't just gather data; I built a network. I connected with professionals who, like me, were navigating the world of InnerSource metrics. This wasn't just about numbers but about people facing similar challenges.
 
-My future self will also benefit when it comes time to begin measuring InnerSource projects at my company. I will have a list of metrics that have been used by other companies, and I will know who to reach out to for advice.
+As I contributed to this project, my professional network grew exponentially. As a result of these efforts, I'm connected to great, like-minded professionals ready to help expand the value of the InnerSource Commons.
+
+Looking ahead, this experience isn't a one-time benefit. It's an investment in the future. When my company expands InnerSource project measurement, we'll be steps ahead, armed with knowledge, connections, and a deep understanding of diverse approaches.
 
 -->
 
@@ -180,7 +188,7 @@ My future self will also benefit when it comes time to begin measuring InnerSour
 
 ## How the ISPO working group operates
 
-Deliver valuable products reusable inside our companies through collaborative efforts, accommodating participants' availability and interest
+We deliver valuable reusable products inside our companies through collaborative efforts, accommodating participants' availability and interest.
 
 * Website pages documenting patterns and methodologies
 * GitBooks
@@ -189,7 +197,11 @@ Deliver valuable products reusable inside our companies through collaborative ef
 
 <!-- Slide 14: Key Message
 
-How: How the working group operates, and how the audience can contribute in ways that maximize the benefits of the working group for their own needs -->
+We contribute to the Managing InnerSource Projects Gitbook, InnerSource Patterns, and other projects relevant to leaders of ISPOs, OSPOs, and the like.
+
+Through conversations, ideation, and sharing our challenges, we work together to build peer-reviewed content fit for your organizations.
+
+-->
 
 ---
 
@@ -199,17 +211,18 @@ How: How the working group operates, and how the audience can contribute in ways
 
 ### Asynchronously
 
-* Slack channel
-* GitHub repositories
+* Slack
+* GitHub Repositories
 * GitHub-based Kanban board
 
 ### Synchronously
 
 * Biweekly working group meetings
+* Mobbing sessions
 
 <!-- Slide 15: Key Message
 
-People can attend each biweekly meeting, or work asynchronously, or drop in when available. 
+You can attend each biweekly meeting, work asynchronously, or drop in when available. 
 
 -->
 
@@ -217,7 +230,7 @@ People can attend each biweekly meeting, or work asynchronously, or drop in when
 
 <!--- Slide 16: Key Message --->
 
-## How we work
+## How Do I Contribute?
 
 ![bg right 60%](../assets/ways-to-contribute.png)
 
@@ -238,13 +251,14 @@ All projects within the working group undergo peer review as they progress throu
 
 ***The ISPO working group can be your force multiplier!***
 
-* Produce content at lower cost collaboratively
+* Produce content at a lower cost collaboratively
 * Get feedback from deeply experienced people in your niche
 
 <!-- Slide 17: Closing Point of View
 
 We want people to take the work in their company backlog and align it to what is being contributed in this working group.
-E.g. in peoples' company backlog there are tickets that talk about them working and building this out in the InnerSource Commons." -->
+
+E.g., in peoples' company backlog, some tickets talk about them working and building this out in the InnerSource Commons." -->
 
 ---
 
