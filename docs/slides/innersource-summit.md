@@ -132,9 +132,10 @@ By participating in our working group
 We have structured the working group such that 
 by participating in our working group we can increase the speed and impact of your InnerSource Program Office.
 
-The goal is to created shared products, guidance docs, methology descriptions, etc. 
-That get peer reviewed from other InnerSource experts, and then reused by internally
-by yourself and by others.
+The goal is to created shared products, guidance docs, 
+methodology descriptions, etc. 
+These get peer reviewed from other InnerSource experts, and then reused 
+by internally by yourself and by others.
 
 This improves the quality of your work through peer review from external experts, 
 and lets you reuse the content internally without having to maintain it or create it
@@ -154,7 +155,14 @@ Examples of products we are working on specifically for teams that drive InnerSo
 
 <!-- Slide 8: Key Message
 
-Focus is to support the people/teams that do InnerSource organization-wide
+Examples of products we are working on specifically for teams that drive InnerSource company-wide:
+
+* InnerSource Project Metrics
+* SCM (Source Code Management)
+* InnerSource Project Assessment and Linting
+
+Our focus is to support the people/teams that do InnerSource organization-wide
+
 These are all areas where many people in the working group have tried different things, have different lessons to share, 
 and want to hear how things they are actively considering have worked out at other companies. 
 -->
@@ -170,7 +178,25 @@ and want to hear how things they are actively considering have worked out at oth
 ![width:800px](../assets/SCM-table-screenshot.png)
 
 <!-- Slide 10: Key Message 
-What is source control management
+One area I have contributed to is in defining guidance for 
+source code management or SCM.
+
+SCM refers to how you set up or configure a version control platform like 
+GitHub, GitLab, Bit Bucket, etc. There are lots of decisions to be made in 
+how these platforms are set up and different needs have to be balanced.
+
+Shown on the page is a screenshot of one part of our in-process guidance documentation that discusses how to balance needs for security 
+and collaboration. 
+These conflicting needs can sometimes conflict resulting in 
+disagreements regarding what configuration settings to use. 
+And in a worst case scenario, a single security 
+event can result in a sudden lock down across the enterprise when other configuration options could be addressed 
+the security need without shutting off so much collaboration potential.
+
+The purpose of this part of ISPO working group is to generate guidance 
+documents that create a framework for making good configuration choices
+in version control platforms that balance the various needs, like security
+and collaboration. 
 -->
 
 ---
@@ -182,7 +208,7 @@ What did I get from contributing to Source Code Management project?
 
  Why did I contribute to Source Code Management project (Justin)
  1. Get more value from hard won lessons by sharing them with others externally. 
- 2. Want my perspective in external resources so I can refer to it rather than it just being Justin's opinion in an email.
+ 2. Want my perspective in external resources so I can refer to it rather than it just being Justin's opinion written in an email.
  3. Want to confirm my opinion is aligned with others who have struggled through this at their company as this makes me more confident when I make a position internally. 
  4. Sharing makes it more likely InnerSource Commons people give you feedback on unrelated areas. They are more likely to spend their time on you.
 -->
