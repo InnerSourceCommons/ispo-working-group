@@ -206,22 +206,22 @@ We value progress over perfection, and encourage you to share your challenges an
 
 <!--- Slide 15: Key Message --->
 
-## When
+## When?
 
 ### Asynchronously
 
-* Slack
-* GitHub Repositories
-* GitHub-based Kanban board
+💬 Slack  
+⛙ GitHub Repositories  
+📋 GitHub-based Kanban board  
 
 ### Synchronously
 
-* Biweekly working group meetings
-* Mobbing sessions
+📆 Biweekly working group meetings  
+👥 Mobbing sessions  
 
 <!-- Slide 15: Key Message
 
-You can attend each biweekly meeting, work asynchronously, or drop in when available. 
+You welcome to attend each biweekly meeting, work asynchronously, or drop in when available. 
 
 -->
 
@@ -236,7 +236,7 @@ You can attend each biweekly meeting, work asynchronously, or drop in when avail
 1. Kanban board *(GitHub)*
 2. Peer review *(GitHub)*
 3. Focus on external products useful to others
-   * Markdown books, website pages, and other things that can be linked to from inside company resources or ingested into them.
+   * Markdown books, website pages, and anything linkable from inside company resources or added to them.
 
 <!-- Slide 16: Key Message
 
@@ -252,14 +252,16 @@ We contribute to the Managing InnerSource Projects Gitbook, InnerSource Patterns
 
 ***The ISPO working group can be your force multiplier!***
 
-* Produce content at a lower cost collaboratively
-* Get feedback from deeply experienced people in your niche
+🏗️ Produce content at a lower cost collaboratively  
+🔄 Get feedback from deeply experienced people  
 
 <!-- Slide 17: Closing Point of View
 
-We want people to take the work in their company backlog and align it to what is being contributed in this working group.
+We invite you to align your company backlog with the work we are doing in this working group. As a result, you can produce content at a lower cost collaboratively and get feedback from deeply experienced people. 
 
-E.g., in peoples' company backlog, some tickets talk about them working and building this out in the InnerSource Commons." -->
+If your backlogs include references to building content in the ISPO working group, we're all winning.
+
+-->
 
 ---
 
