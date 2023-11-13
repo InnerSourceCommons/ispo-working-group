@@ -72,8 +72,6 @@ or part of a centralized engineering team, or platforms team.
 They also could be single person working under a head engineering or as part of 
 an engineering community of practice. 
 
-It is variable... and for our purposes though, it is just someone with InnerSource responsibilities (however you define that) at company scale.
-
 -->
 
 ---
@@ -187,11 +185,11 @@ how these platforms are set up and different needs have to be balanced.
 
 Shown on the page is a screenshot of one part of our in-process guidance documentation that discusses how to balance needs for security 
 and collaboration. 
-These conflicting needs can sometimes conflict resulting in 
-disagreements regarding what configuration settings to use. 
-And in a worst case scenario, a single security 
-event can result in a sudden lock down across the enterprise when other configuration options could be addressed 
-the security need without shutting off so much collaboration potential.
+
+These needs can sometimes conflict resulting in 
+disagreements. And in a worst case scenario, a single security 
+event can result in a sudden lock down across the enterprise
+that kills off collaboration.
 
 The purpose of this part of ISPO working group is to generate guidance 
 documents that create a framework for making good configuration choices
@@ -206,11 +204,19 @@ What did I get from contributing to Source Code Management project?
 
 <!-- Slide 11: Key Message
 
- Why did I contribute to Source Code Management project (Justin)
- 1. Get more value from hard won lessons by sharing them with others externally. 
- 2. Want my perspective in external resources so I can refer to it rather than it just being Justin's opinion written in an email.
- 3. Want to confirm my opinion is aligned with others who have struggled through this at their company as this makes me more confident when I make a position internally. 
- 4. Sharing makes it more likely InnerSource Commons people give you feedback on unrelated areas. They are more likely to spend their time on you.
+The source code management challenge is one area where I have personally
+participated in creating ISPO working group content. 
+
+There are several reasons why I took part in this challenge area:
+
+ First, to get more value from hard won lessons by sharing them with others.
+
+ Second, I want my perspective in external resources so I can refer to it there rather than just sharing my personal opinion in an email. Sharing a link to an 
+ inner source commons product is more persuasive. 
+ 
+ Third, I wanted to confirm my opinion is aligned with others who have struggled through this at their company. 
+ 
+ Fourth, sharing makes it more likely InnerSource Commons people give you feedback on unrelated areas. They are more likely to spend their time on you.
 -->
 
 ---
