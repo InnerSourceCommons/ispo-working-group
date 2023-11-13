@@ -193,7 +193,11 @@ What did I get from contributing to Source Code Management project?
 
 ![bg right 95%](../assets/gqm-landing-page.png)
 
-***Example InnerSource Metrics***
+**What are InnerSource Metrics?**
+
+InnerSource Metrics meaninfully demonstrate the value of InnerSource to our stakeholders.
+
+*Example InnerSource Metrics*
 
 👀 **Usage count** — how many times the InnerSource project is used.
 🤝 **Code contributions** — Count of commits not from the project owner.
