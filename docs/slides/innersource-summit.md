@@ -65,6 +65,8 @@ Introduce OSPO vs. ISPO. You don't formally need an ISPO for this content to be 
 
 <!--- Slide 5: Key Message --->
 
+![bg right:40%](../assets/managing-innersource-projects-cover.jpg)
+
 Q: WHY is the ISPO working group a subset of InnerSource Commons?
 
 A: We focus on accelerating teams that run and support InnerSource across an organization rather than individuals.
@@ -186,12 +188,10 @@ Looking ahead, this experience isn't a one-time benefit. It's an investment in t
 
 <!--- Slide 14: Key Message --->
 
-![bg right:40%](../assets/managing-innersource-projects-cover.jpg)
-
 ## How the ISPO working group operates
 
 🚀 ***Progress over perfection*** — Even if a solution doesn't work for all companies, we'll still put it out there. We can iterate and add more to it later.
-🧩 ***Solve your challenges*** — Take the challenges that you are already solving and use this working group to get external feedback and sharing. We do not expect others to solve our challenges for us.
+🧩 ***Solve your challenges*** — Take the challenges that you are already solving and use this working group to get external feedback. We do not expect others to solve our challenges for us.
 
 
 <!-- Slide 14: Key Message
@@ -248,6 +248,7 @@ We contribute to the Managing InnerSource Projects Gitbook, InnerSource Patterns
 
 ---
 <!---  Slide 17: Closing Point of View --->
+
 ![bg right 60%](../assets/creative.png)
 
 ***The ISPO working group can be your force multiplier!***
