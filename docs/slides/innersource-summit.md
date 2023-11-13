@@ -102,7 +102,7 @@ NO eat your brocolli speech. Benefits are to the individual.
 ---
 
 <!--- Slide 8: Key Message --->
-![bg right](../assets/gqm-landing-page.png)
+![bg right 95%](../assets/gqm-landing-page.png)
 
 Examples of products we are working on specifically for teams that drive InnerSource company-wide:
 
@@ -149,7 +149,7 @@ What did I get from contributing to Source Code Management project?
 
 <!--- Slide 12: Key Message --->
 
-![bg right](../assets/gqm-landing-page.png)
+![bg right 95%](../assets/gqm-landing-page.png)
 
 ***Example InnerSource Metrics***
 
