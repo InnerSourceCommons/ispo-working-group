@@ -260,9 +260,9 @@ Looking ahead, this experience isn't a one-time benefit. It's an investment in t
 
 ## How the ISPO working group operates
 
-🚀 ***Progress over perfection*** — Even if a solution doesn't work for all companies, we'll still put it out there. We can iterate and add more to it later.
-🧩 ***Solve your challenges*** — Take the challenges that you are already solving and use this working group to get external feedback. We do not expect others to solve our challenges for us.
+![bg right 100%](../assets/how-ispo-working-group-operates.png)
 
+Share challenges, collaborate, deliver.
 
 <!-- Slide 14: Key Message
 
@@ -323,14 +323,11 @@ We contribute to the Managing InnerSource Projects Gitbook, InnerSource Patterns
 
 ***The ISPO working group can be your force multiplier!***
 
-🏗️ Produce content at a lower cost collaboratively  
-🔄 Get feedback from deeply experienced people  
+*What challenges are you facing?*
 
 <!-- Slide 17: Closing Point of View
 
-We invite you to align your company backlog with the work we are doing in this working group. As a result, you can produce content at a lower cost collaboratively and get feedback from deeply experienced people. 
-
-If your backlogs include references to building content in the ISPO working group, we're all winning.
+We invite you to align your company backlog our working group. As a result, you can produce content at a lower cost collaboratively and get feedback from deeply experienced people. 
 
 -->
 
@@ -348,7 +345,7 @@ https://github.com/InnerSourceCommons/ispo-working-group/issues/new
 
 <!-- Slide 18: Specific Action: DO THIS ONE THING RIGHT NOW 
 
-Attend the ISPO working group meeting on November 20th at 8 AM, or join us for the next one two weeks later. 
+Attend the ISPO working group meeting on November 20th at 8 AM. 
 
 -->
 
@@ -361,7 +358,7 @@ Our InnerSource Working Group has the same benefits as open source.
 
 <!-- Slide 19: Benefits of Action
 
-We already know the benefits of Open Source. Our InnerSource Working Group provides you the same benefits. 
+We already know the benefits of Open Source. Our InnerSource Working Group provides the same benefits. 
 
 Collaboration opportunities, code reuse, knowedge sharing through community, and more.
 
@@ -374,23 +371,23 @@ Collaboration opportunities, code reuse, knowedge sharing through community, and
 
 **Collaborate with us!**
 
+* Get meeting invites: https://github.com/InnerSourceCommons/ispo-working-group/issues/new
 * GitHub repository: https://github.com/InnerSourceCommons/ispo-working-group
 * Kanban board: https://github.com/orgs/InnerSourceCommons/projects/4 
 * Join our slack group: https://innersourcecommons.org/community/#ispo
-* Get meeting invites: https://github.com/InnerSourceCommons/ispo-working-group/issues/new
 
 <!--- Slide 20: Closing Statement
 
-In conclusion, the InnerSource Program Office (ISPO) Working Group represents a unique opportunity for those involved in enterprise-level software development and collaboration.
+In conclusion, the InnerSource Program Office (ISPO) Working Group is a unique opportunity for those involved in enterprise-level software development and collaboration.
 
-Whether you're a member of an OSPO, a Platform Engineering Team, or a centralized group like Enterprise Architecture, the resources and knowledge shared within this group are indispensable.
-
-By joining the ISPO Working Group, you're not just accessing a rich repository of InnerSource strategies and tools; you're becoming part of a community dedicated to refining and advancing the art of internal code collaboration.
+Whether you're a member of an ISPO, OSPO, Platform Engineering Team, or other centralized groups, you'll benefit from our group.
 
 Our collaborative space allows you to contribute and benefit from a wealth of shared knowledge and experience, enhancing your organization's InnerSource capabilities.
 
-Remember, the ISPO Working Group is more than just a repository of information—it's a dynamic, collaborative environment where each member plays a crucial role in shaping the future of InnerSource. So, don't miss out on this chance to amplify your impact, refine your skills, and contribute to a thriving community. 
+Remember, the ISPO Working Group is more than just a repository of information—we're shaping the future of InnerSource. So, don't miss out on this chance to amplify your impact, refine your skills. 
 
-Join us at the InnerSource Program Office Working Group, and let's revolutionize software development practices within our organizations.
+In closing, join us at the InnerSource Program Office Working Group by navigating to the first link to get meeting invites.
+
+Thank You
 
 --->
