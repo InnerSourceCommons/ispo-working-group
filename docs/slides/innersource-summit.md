@@ -80,6 +80,8 @@ It is variable... and for our purposes though, it is just someone with InnerSour
 
 <!--- Slide 5: Key Message --->
 
+![bg right:40%](../assets/managing-innersource-projects-cover.jpg)
+
 Q: WHY is the ISPO working group a subset of InnerSource Commons?
 
 A: We focus on accelerating teams that run and support InnerSource across an organization rather than individuals.
@@ -142,7 +144,7 @@ just by yourself.
 ---
 
 <!--- Slide 8: Key Message --->
-![bg right](../assets/gqm-landing-page.png)
+![bg right 95%](../assets/gqm-landing-page.png)
 
 Examples of products we are working on specifically for teams that drive InnerSource company-wide:
 
@@ -189,7 +191,7 @@ What did I get from contributing to Source Code Management project?
 
 <!--- Slide 12: Key Message --->
 
-![bg right](../assets/gqm-landing-page.png)
+![bg right 95%](../assets/gqm-landing-page.png)
 
 ***Example InnerSource Metrics***
 
@@ -210,7 +212,7 @@ We've built a graph of Goals, Questions, and Metrics to help you answer your sta
 ---
 <!--- Slide 13: Key Message --->
 
-How did I benefit from collecting these goals, questions, and metrics?
+How did I benefit from collecting goals, questions, and metrics?
 
 <!-- Slide 13: Key Message
 
@@ -228,18 +230,15 @@ Looking ahead, this experience isn't a one-time benefit. It's an investment in t
 
 ## How the ISPO working group operates
 
-We deliver valuable reusable products inside our companies through collaborative efforts, accommodating participants' availability and interest.
+🚀 ***Progress over perfection*** — Even if a solution doesn't work for all companies, we'll still put it out there. We can iterate and add more to it later.
+🧩 ***Solve your challenges*** — Take the challenges that you are already solving and use this working group to get external feedback. We do not expect others to solve our challenges for us.
 
-* Website pages documenting patterns and methodologies
-* GitBooks
-
-![bg right:40%](../assets/managing-innersource-projects-cover.jpg)
 
 <!-- Slide 14: Key Message
 
-We contribute to the Managing InnerSource Projects Gitbook, InnerSource Patterns, and other projects relevant to leaders of ISPOs, OSPOs, and the like.
-
 Through conversations, ideation, and sharing our challenges, we work together to build peer-reviewed content fit for your organizations.
+
+We value progress over perfection, and encourage you to share your challenges and solutions with us.
 
 -->
 
@@ -247,22 +246,22 @@ Through conversations, ideation, and sharing our challenges, we work together to
 
 <!--- Slide 15: Key Message --->
 
-## When
+## When?
 
 ### Asynchronously
 
-* Slack
-* GitHub Repositories
-* GitHub-based Kanban board
+💬 Slack  
+⛙ GitHub Repositories  
+📋 GitHub-based Kanban board  
 
 ### Synchronously
 
-* Biweekly working group meetings
-* Mobbing sessions
+📆 Biweekly working group meetings  
+👥 Mobbing sessions  
 
 <!-- Slide 15: Key Message
 
-You can attend each biweekly meeting, work asynchronously, or drop in when available. 
+You welcome to attend each biweekly meeting, work asynchronously, or drop in when available. 
 
 -->
 
@@ -274,31 +273,36 @@ You can attend each biweekly meeting, work asynchronously, or drop in when avail
 
 ![bg right 60%](../assets/ways-to-contribute.png)
 
-1. Kanban board _(GitHub)_
-2. Peer review _(GitHub)_
+1. Kanban board *(GitHub)*
+2. Peer review *(GitHub)*
 3. Focus on external products useful to others
-   * Markdown books, website pages, and other things that can be linked to from inside company resources or ingested into them.
+   * Markdown books, website pages, and anything linkable from inside company resources or added to them.
 
 <!-- Slide 16: Key Message
 
-All projects within the working group undergo peer review as they progress through the Kanban board
+All work within the working group undergos peer review as is progresses through the Kanban board. We align our work with the goals and objectives of our companies while also contributing to the InnerSource Commons.
+
+We contribute to the Managing InnerSource Projects Gitbook, InnerSource Patterns, and other projects relevant to leaders of ISPOs, OSPOs, and the like.
 
 -->
 
 ---
 <!---  Slide 17: Closing Point of View --->
+
 ![bg right 60%](../assets/creative.png)
 
 ***The ISPO working group can be your force multiplier!***
 
-* Produce content at a lower cost collaboratively
-* Get feedback from deeply experienced people in your niche
+🏗️ Produce content at a lower cost collaboratively  
+🔄 Get feedback from deeply experienced people  
 
 <!-- Slide 17: Closing Point of View
 
-We want people to take the work in their company backlog and align it to what is being contributed in this working group.
+We invite you to align your company backlog with the work we are doing in this working group. As a result, you can produce content at a lower cost collaboratively and get feedback from deeply experienced people. 
 
-E.g., in peoples' company backlog, some tickets talk about them working and building this out in the InnerSource Commons." -->
+If your backlogs include references to building content in the ISPO working group, we're all winning.
+
+-->
 
 ---
 

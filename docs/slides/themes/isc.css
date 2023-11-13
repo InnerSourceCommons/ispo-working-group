@@ -14,7 +14,7 @@ theme       : ics
 
 :root {
     font-family: pt sans,sans-serif;
-    font-size: small;
+    font-size: large;
     --beamer-main: #000000;
     --beamer-secondary: #ffaa00;
 }
