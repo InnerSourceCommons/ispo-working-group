@@ -1,0 +1,21 @@
+name: Generate ISPO Slides
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/assets/slides/**'
+
+  workflow_dispatch:
+jobs:
+    deloySlides:
+      name: Generate Slides
+      runs-on: ubuntu-latest
+      steps:    
+        - name: Checkout
+          uses: actions/checkout@v2
+        - name: Marp Build (innersource-summit.pdf)
+          uses: docker://marpteam/marp-cli:v3.9.0
+          with:
+            args: --allow-local-files docs/assets/slides/innersource-summit.md -o docs/assets/slides/innersource-summit.pdf
+          env:
+            MARP_USER: root:root

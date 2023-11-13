@@ -22,7 +22,7 @@ Why? Because it's easy to use, it's free, facilitates efficient collaboration, a
 4. Export the slide deck to PDF
 
     ```bash
-    marp deck.md --pdf
+    marp --allow-local-files deck.md --pdf
     ```
 
 5. Open the PDF file in your PDF viewer
