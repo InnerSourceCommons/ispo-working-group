@@ -10,23 +10,25 @@ marp: true
 The InnerSource Program Office (ISPO) Working Group creates resources for enterprise InnerSource teams.
 
 <!--
-1. Define an ISPO
-2. ...
+Hello, Jeff and I are going to talk to you today about the 
+ISPO Working Group, which is a working group within the InnerSource commons 
+devoted to creating shared resources for people working on InnerSource at an Enterprise level.
 -->
 
----
+<!-- --- -->
 
 <!--- Slide 2: Key Message --->
-![bg right 60%](../assets/ispo-participants.png)
+<!-- ![bg right 60%](../assets/ispo-participants.png)
 If you're in any of these groups, we invite you to join us:
 
 * InnerSource responsibilities in an Open Source Program Office (OSPO)
 * Platform Engineering Teams
-* Other centralized groups such as Enterprise Architecture
+* Other centralized groups such as Enterprise Architecture -->
 
 <!-- Slide 2: Key Message  
 
--->
+
+--> 
 
 ---
 
@@ -38,11 +40,13 @@ But what is an InnerSource Program Office (ISPO)?
 
 <!-- Slide 3: Key Message 
 
-Technically, ISPO is an acronym. InnerSource Programs Office. 
-Often however, the people doing ISPO related work in a company aren't in their own team. 
-They are part of an OSPO, part of a centralized engineering team, maybe they are single person working under a head engineering. 
-It is variable... and for our purpoeses though, it is just someone with InnerSource responsibilities (however you define that)
-be it on an OSPO, platform engineering, or any other centralized group.
+Technically, ISPO is an acronym. 
+It stands for InnerSource Programs Office. 
+
+Often the people doing ISPO related work in a company aren't in a team called ISPO.
+
+They are in a team with larger scope of responsibilities and InnerSource is 
+one aspect. For convience, we say ISPO.
 
 -->
 
@@ -54,10 +58,21 @@ be it on an OSPO, platform engineering, or any other centralized group.
 
 ![bg right 60%](../assets/working-group-overlap.png)
 
-You don't formally need an ISPO for this content to be useful
+You don't formally need an ISPO team for this content to be useful
 
+You might be concerned with InnerSource in any of these other teams.
 <!-- Slide 4: Key Message:  
-Introduce OSPO vs. ISPO. You don't formally need an ISPO for this content to be useful.
+
+People trying to improve InnerSource across an entire enterprise or company 
+sit in different types of team. 
+
+They might be in a team called the OSPO, or open source programming office, 
+or part of a centralized engineering team, or platforms team. 
+
+They also could be single person working under a head engineering or as part of 
+an engineering community of practice. 
+
+It is variable... and for our purposes though, it is just someone with InnerSource responsibilities (however you define that) at company scale.
 
 -->
 
@@ -69,7 +84,20 @@ Q: WHY is the ISPO working group a subset of InnerSource Commons?
 
 A: We focus on accelerating teams that run and support InnerSource across an organization rather than individuals.
 <!-- Slide 5: Key Message:  
-WHY: The scope of the InnerSource Programs Office (ISPO) working group is more focused on the teams that run and support InnerSource across an organization rather than guidance for projects or individuals
+The important way in which the ISPO working group is a little different than 
+other InnerSource Commons efforts..
+
+I that we try to focus on guidance for
+the teams that run and support InnerSource across an organization rather than guidance for projects or individuals. 
+
+For example, in the InnerSource Commons patterns, there is guidance 
+for how to be a good InnerSource maintainer and guidance on how to set up 
+your project for InnerSource success. Those are important areas, but outside of
+the working groups focus.
+
+We focus on guidance, tools, policies, methods, etc. run or owned by a centralized 
+team.
+
 -->
 
 ---
@@ -81,6 +109,11 @@ Our objective is to help you discover the benefits of our ISPO working group.
 https://github.com/InnerSourceCommons/ispo-working-group/blob/main/CONTRIBUTING.md
 
 <!-- Slide 6: Key Message
+
+Our goal for this talk is to help you discover the benefits of the 
+ISPO working group. In addition to the content in this talk, you can 
+check out the contributing.md file of the ispo-working-group repository for 
+information on how to get started with the working group.
 
 https://github.com/InnerSourceCommons/ispo-working-group/blob/main/CONTRIBUTING.md
 -->
@@ -94,9 +127,16 @@ By participating in our working group
 
 <!-- Slide 7: Key Message
 
-By participating in our working group we can increase the speed and impact of your InnerSource Program Office.
+We have structured the working group such that 
+by participating in our working group we can increase the speed and impact of your InnerSource Program Office.
 
-NO eat your brocolli speech. Benefits are to the individual.
+The goal is to created shared products, guidance docs, methology descriptions, etc. 
+That get peer reviewed from other InnerSource experts, and then reused by internally
+by yourself and by others.
+
+This improves the quality of your work through peer review from external experts, 
+and lets you reuse the content internally without having to maintain it or create it
+just by yourself.
 -->
 
 ---
