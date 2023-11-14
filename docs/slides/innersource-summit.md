@@ -223,7 +223,7 @@ other ideas later on.
 -->
 
 ---
-[comment]: # Slide 12: Key Message
+<!--- Slide 12: Key Message --->
 
 ![bg right 95%](../assets/gqm-landing-page.png)
 
@@ -247,7 +247,7 @@ By navigating and contributing to the goals, questions, metrics graph we can dem
 -->
 
 ---
-[comment]: # Slide 13: Key Message
+<!--- Slide 13: Key Message --->
 
 How did I benefit from collecting goals, questions, and metrics?
 
@@ -260,7 +260,7 @@ Looking ahead, this experience isn't a one-time benefit. When my company expands
 -->
 
 ---
-[comment]: # Slide 14: Key Message
+<!--- Slide 14: Key Message --->
 
 ## How the ISPO working group operates
 
@@ -277,7 +277,7 @@ We value progress over perfection, and encourage you to share your challenges an
 -->
 
 ---
-[comment]: # Slide 15: Key Message
+<!--- Slide 15: Key Message --->
 
 ## When?
 
@@ -299,7 +299,7 @@ Biweekly meetings, slack, GitHub, and mobbing sessions.
 -->
 
 ---
-[comment]: # Slide 16: Key Message
+<!--- Slide 16: Key Message --->
 
 ## How Do I Contribute?
 
@@ -317,7 +317,7 @@ We contribute to the Managing InnerSource Projects Gitbook, InnerSource Patterns
 -->
 
 ---
-[comment]: # Slide 17: Closing Point of View
+<!--- Slide 17: Closing Point of View --->
 
 ![bg right 60%](../assets/creative.png)
 
@@ -332,7 +332,7 @@ Is there a challenge you’ve facing today?
 -->
 
 ---
-[comment]: # Slide 18: Specific Action
+<!--- Slide 18: Specific Action --->
 
 ![bg right 60%](../assets/collaboration.png)
 
@@ -347,7 +347,7 @@ Attend the ISPO working group meeting on November 20th at 8 AM.
 -->
 
 ---
-[comment]: # Slide 19: Benefits of Action
+<!--- Slide 19: Benefits of Action --->
 
 ![bg right 60%](../assets/innersource-benefits.png)
 
@@ -359,7 +359,7 @@ Collaboration opportunities, code reuse, knowedge sharing through community, and
 -->
 
 ---
-[comment]: # Slide 20: Closing Statement 
+<!--- Slide 20: Closing Statement --->
 
 ![bg right 60%](../assets/ispo-working-group-code.png)
 
