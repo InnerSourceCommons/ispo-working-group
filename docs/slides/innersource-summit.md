@@ -7,28 +7,15 @@ marp: true
 
 ![bg right 60%](../assets/innersource-commons.svg)
 
-The InnerSource Program Office (ISPO) Working Group creates resources for enterprise InnerSource teams.
+The working group creates resources for enterprise InnerSource teams.
 
 <!--
 Hello, Jeff and I are going to talk to you today about the 
-ISPO Working Group, which is a working group within the InnerSource commons 
+ISPO Working Group,   which is a working group within the InnerSource commons 
 devoted to creating shared resources for people working on InnerSource at an Enterprise level.
 -->
 
-<!-- --- -->
-
-<!--- Slide 2: Key Message --->
-<!-- ![bg right 60%](../assets/ispo-participants.png)
-If you're in any of these groups, we invite you to join us:
-
-* InnerSource responsibilities in an Open Source Program Office (OSPO)
-* Platform Engineering Teams
-* Other centralized groups such as Enterprise Architecture -->
-
-<!-- Slide 2: Key Message  
-
-
---> 
+<!-- --- --> 
 
 ---
 
@@ -40,13 +27,11 @@ But what is an InnerSource Program Office (ISPO)?
 
 <!-- Slide 3: Key Message 
 
-Technically, ISPO is an acronym. 
+ISPO is an acronym. 
 It stands for InnerSource Programs Office. 
 
-Often the people doing ISPO related work in a company aren't in a team called ISPO.
+We define it as "Person(s) working on improving the internal code collaboration experience at full organization scale".
 
-They are in a team with larger scope of responsibilities and InnerSource is 
-one aspect. For convience, we say ISPO.
 
 -->
 
@@ -63,14 +48,21 @@ You don't formally need an ISPO team for this content to be useful
 You might be concerned with InnerSource in any of these other teams.
 <!-- Slide 4: Key Message:  
 
-People trying to improve InnerSource across an entire enterprise or company 
-sit in different types of team. 
+Rarely is there a team called the ISPO. 
+
+Often the people doing InnerSource related work in a company are in a
+team with a large scope of responsibilities and InnerSource is just
+one aspect of that scope.
 
 They might be in a team called the OSPO, or open source programming office, 
-or part of a centralized engineering team, or platforms team. 
+or part of a centralized engineering team, or a platforms team, or a
+developer experience team.
 
-They also could be single person working under a head engineering or as part of 
+They also could be single person working under the head engineering or as part of 
 an engineering community of practice. 
+
+When we say ISPO, we mean anyone on any of those teams concerned 
+with internal code collaboration at company-scale.
 
 -->
 
@@ -84,19 +76,20 @@ Q: WHY is the ISPO working group a subset of InnerSource Commons?
 
 A: We focus on accelerating teams that run and support InnerSource across an organization rather than individuals.
 <!-- Slide 5: Key Message:  
-The important way in which the ISPO working group is a little different than 
-other InnerSource Commons efforts..
 
-I that we try to focus on guidance for
-the teams that run and support InnerSource across an organization rather than guidance for projects or individuals. 
+The ISPO working group focuses on a subset of the larger InnerSource Commons scope.
+
+We focus on guidance for
+the teams that run and support InnerSource across an enterprise or agency rather than guidance at the project or individual level. 
 
 For example, in the InnerSource Commons patterns, there is guidance 
 for how to be a good InnerSource maintainer and guidance on how to set up 
-your project for InnerSource success. Those are important areas, but outside of
-the working groups focus.
+your project for InnerSource success. 
 
-We focus on guidance, tools, policies, methods, etc. run or owned by a centralized 
-team.
+Those are important areas, but they are outside of
+the working groups scope. We focus specificaly 
+on guidance, tools, policies, methods, etc.
+that are "run by or owned by a centralized team"
 
 -->
 
@@ -111,9 +104,13 @@ https://github.com/InnerSourceCommons/ispo-working-group/blob/main/CONTRIBUTING.
 <!-- Slide 6: Key Message
 
 Our goal for this talk is to help you discover the benefits of the 
-ISPO working group. In addition to the content in this talk, you can 
+ISPO working group. 
+
+In addition to the content in this talk, you can 
 check out the contributing.md file of the ispo-working-group repository for 
-information on how to get started with the working group.
+information on how to get started with the working group. 
+
+You can find it in the meeting chat as well.
 
 https://github.com/InnerSourceCommons/ispo-working-group/blob/main/CONTRIBUTING.md
 -->
@@ -130,14 +127,17 @@ By participating in our working group
 We have structured the working group such that 
 by participating in our working group we can increase the speed and impact of your InnerSource Program Office.
 
-The goal is to created shared products, guidance docs, 
-methodology descriptions, etc. 
-These get peer reviewed from other InnerSource experts, and then reused 
-by internally by yourself and by others.
+The model the working group follows is that: 
 
-This improves the quality of your work through peer review from external experts, 
-and lets you reuse the content internally without having to maintain it or create it
-just by yourself.
+- We create shared products, guidance docs, 
+methodology descriptions, etc. 
+
+- These get peer reviewed from other InnerSource experts, 
+
+- and then reused internally by yourself and by others.
+
+This improves the quality of OUR work and enables us to move FASTER
+than if we all did the work individually. 
 -->
 
 ---
@@ -153,16 +153,15 @@ Examples of products we are working on specifically for teams that drive InnerSo
 
 <!-- Slide 8: Key Message
 
-Examples of products we are working on specifically for teams that drive InnerSource company-wide:
+Examples of challenges we are working on include:
 
-* InnerSource Project Metrics
+* InnerSource Metrics
 * SCM (Source Code Management)
-* InnerSource Project Assessment and Linting
-
-Our focus is to support the people/teams that do InnerSource organization-wide
+* InnerSource Project Assessment and Linting tools
 
 These are all areas where many people in the working group have tried different things, have different lessons to share, 
-and want to hear how things they are actively considering have worked out at other companies. 
+and want to learn from the experience of others who have tried other 
+approaches at other companies. 
 -->
 
 ---
@@ -181,9 +180,9 @@ source code management or SCM.
 
 SCM refers to how you set up or configure a version control platform like 
 GitHub, GitLab, Bit Bucket, etc. There are lots of decisions to be made in 
-how these platforms are set up and different needs have to be balanced.
+how these platforms are configured and different needs have to be balanced.
 
-Shown on the page is a screenshot of one part of our in-process guidance documentation that discusses how to balance needs for security 
+Shown on the page is a screenshot of one part of our in-progress guidance documentation that discusses how to balance needs for security 
 and collaboration. 
 
 These needs can sometimes conflict resulting in 
@@ -194,7 +193,7 @@ that kills off collaboration.
 The purpose of this part of ISPO working group is to generate guidance 
 documents that create a framework for making good configuration choices
 in version control platforms that balance the various needs, like security
-and collaboration. 
+vs. collaboration. 
 -->
 
 ---
@@ -211,12 +210,16 @@ There are several reasons why I took part in this challenge area:
 
  First, to get more value from hard won lessons by sharing them with others.
 
- Second, I want my perspective in external resources so I can refer to it there rather than just sharing my personal opinion in an email. Sharing a link to an 
+ Second, I want my perspective in external resources, so I can later refer 
+ to those external resources rather than just sharing an email with my
+ personal opinion. Sharing a link to an 
  inner source commons product is more persuasive. 
  
- Third, I wanted to confirm my opinion is aligned with others who have struggled through this at their company. 
+ Third, I wanted to confirm my opinion is aligned with others experiences 
+ who have struggled through this at their company. 
  
- Fourth, sharing makes it more likely InnerSource Commons people give you feedback on unrelated areas. They are more likely to spend their time on you.
+ Fourth, sharing grows my network and provides opportunities to sense check
+other ideas later on.
 -->
 
 ---
