@@ -365,7 +365,7 @@ Collaboration opportunities, code reuse, knowedge sharing through community, and
 
 **Collaborate with us!**
 
-* Join our slack group: https://innersourcecommons.org/community/#ispo
+* Join #ispo-working-group in our slack group: https://innersourcecommons.org/community/#ispo
 * Get meeting invites: https://github.com/InnerSourceCommons/ispo-working-group/issues/new
 * GitHub repository: https://github.com/InnerSourceCommons/ispo-working-group
 * Kanban board: https://github.com/orgs/InnerSourceCommons/projects/4 
