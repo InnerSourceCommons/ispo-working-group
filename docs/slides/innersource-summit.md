@@ -220,49 +220,44 @@ There are several reasons why I took part in this challenge area:
 -->
 
 ---
-
-<!--- Slide 12: Key Message --->
+[comment]: # Slide 12: Key Message
 
 ![bg right 95%](../assets/gqm-landing-page.png)
 
 **What are InnerSource Metrics?**
 
-InnerSource Metrics meaninfully demonstrate the value of InnerSource to our stakeholders.
+InnerSource Metrics meaningfully demonstrate the value of InnerSource to our stakeholders.
 
 *Example InnerSource Metrics*
 
 👀 **Usage count** — how many times the InnerSource project is used.
 🤝 **Code contributions** — Count of commits not from the project owner.
 
-<!-- Slide 12: Key Message 
+<!--
+Thanks Justin, as previously shown we built an InnerSource metrics graph.
 
-What are InnerSource Metrics?
+As ISPO leaders, we’re often asked to articulate the value of InnerSource to our stakeholders. Using the InnerSource Metrics graph, we can achieve this goal.
 
-To demonstrate the value of InnerSource, we need to measure it. As ISPO leaders, we're often asked to articulate the value of InnerSource to our stakeholders. Using the InnerSource Metrics project, we can measure the value of InnerSource meaningfully to our stakeholders.
+For example, we may want to find valuable projects by identifying who contributes to them. The code contributions metric helps us with this goal and answers our question.
 
-For example, usage count demonstrates the reuse of code or other valuable artifacts that would otherwise be duplicated, and code contributions demonstrate collaboration's value, leading to trust and longer employee retention.
-
-We've built a graph of Goals, Questions, and Metrics to help you answer your stakeholders' questions.
+By navigating and contributing to the goals, questions, metrics graph we can demonstrate the value of our InnerSource projects.
 -->
 
 ---
-<!--- Slide 13: Key Message --->
+[comment]: # Slide 13: Key Message
 
 How did I benefit from collecting goals, questions, and metrics?
 
-<!-- Slide 13: Key Message
+<!--
+Through my involvement in the metrics project, I didn't just gather data; I built a network. I connected with professionals who, like me, were navigating the world of InnerSource metrics. 
 
-Through my involvement in the metrics project, I didn't just gather data; I built a network. I connected with professionals who, like me, were navigating the world of InnerSource metrics. This wasn't just about numbers but about people facing similar challenges.
+As I contributed to this project, my professional network grew. As a result of these efforts, I'm connected to great, like-minded professionals ready to help expand the value of the InnerSource Commons.
 
-As I contributed to this project, my professional network grew exponentially. As a result of these efforts, I'm connected to great, like-minded professionals ready to help expand the value of the InnerSource Commons.
-
-Looking ahead, this experience isn't a one-time benefit. It's an investment in the future. When my company expands InnerSource project measurement, we'll be steps ahead, armed with knowledge, connections, and a deep understanding of diverse approaches.
-
+Looking ahead, this experience isn't a one-time benefit. When my company expands InnerSource project measurement, we'll be steps ahead, armed with a deep understanding of diverse approaches.
 -->
 
 ---
-
-<!--- Slide 14: Key Message --->
+[comment]: # Slide 14: Key Message
 
 ## How the ISPO working group operates
 
@@ -270,17 +265,16 @@ Looking ahead, this experience isn't a one-time benefit. It's an investment in t
 
 Share challenges, collaborate, deliver.
 
-<!-- Slide 14: Key Message
+<!--
+So, how do we operate?
 
 Through conversations, ideation, and sharing our challenges, we work together to build peer-reviewed content fit for your organizations.
 
 We value progress over perfection, and encourage you to share your challenges and solutions with us.
-
 -->
 
 ---
-
-<!--- Slide 15: Key Message --->
+[comment]: # Slide 15: Key Message
 
 ## When?
 
@@ -295,15 +289,14 @@ We value progress over perfection, and encourage you to share your challenges an
 📆 Biweekly working group meetings  
 👥 Mobbing sessions  
 
-<!-- Slide 15: Key Message
+<!--
+When do we collaborate?
 
-You welcome to attend each biweekly meeting, work asynchronously, or drop in when available. 
-
+Biweekly meetings, slack, GitHub, and mobbing sessions.
 -->
 
 ---
-
-<!--- Slide 16: Key Message --->
+[comment]: # Slide 16: Key Message
 
 ## How Do I Contribute?
 
@@ -314,16 +307,14 @@ You welcome to attend each biweekly meeting, work asynchronously, or drop in whe
 3. Focus on external products useful to others
    * Markdown books, website pages, and anything linkable from inside company resources or added to them.
 
-<!-- Slide 16: Key Message
-
-All work within the working group undergos peer review as is progresses through the Kanban board. We align our work with the goals and objectives of our companies while also contributing to the InnerSource Commons.
+<!--
+All work within our group undergoes a peer review as it progresses through the Kanban board. We align our work with the goals and objectives of our companies while also contributing to the InnerSource Commons.
 
 We contribute to the Managing InnerSource Projects Gitbook, InnerSource Patterns, and other projects relevant to leaders of ISPOs, OSPOs, and the like.
-
 -->
 
 ---
-<!---  Slide 17: Closing Point of View --->
+[comment]: # Slide 17: Closing Point of View
 
 ![bg right 60%](../assets/creative.png)
 
@@ -331,15 +322,14 @@ We contribute to the Managing InnerSource Projects Gitbook, InnerSource Patterns
 
 *What challenges are you facing?*
 
-<!-- Slide 17: Closing Point of View
+<!--
+We invite you to align your company backlog with our working group. We can produce content at a lower cost and get feedback from deeply experienced people.
 
-We invite you to align your company backlog our working group. As a result, you can produce content at a lower cost collaboratively and get feedback from deeply experienced people. 
-
+Is there a challenge you’ve facing today?
 -->
 
 ---
-
-<!---  Slide 18: Specific Action --->
+[comment]: # Slide 18: Specific Action
 
 ![bg right 60%](../assets/collaboration.png)
 
@@ -349,51 +339,42 @@ Get meeting invites by adding an issue:
 
 https://github.com/InnerSourceCommons/ispo-working-group/issues/new
 
-<!-- Slide 18: Specific Action: DO THIS ONE THING RIGHT NOW 
-
+<!--
 Attend the ISPO working group meeting on November 20th at 8 AM. 
-
 -->
 
 ---
+[comment]: # Slide 19: Benefits of Action
 
-<!---  Slide 19: Benefits of Action --->
 ![bg right 60%](../assets/innersource-benefits.png)
 
 Our InnerSource Working Group has the same benefits as open source.
 
-<!-- Slide 19: Benefits of Action
-
+<!--
 We already know the benefits of Open Source. Our InnerSource Working Group provides the same benefits. 
-
 Collaboration opportunities, code reuse, knowedge sharing through community, and more.
-
 -->
 
 ---
-<!---  Slide 20: Closing Statement --->
+[comment]: # Slide 20: Closing Statement 
 
 ![bg right 60%](../assets/ispo-working-group-code.png)
 
 **Collaborate with us!**
 
+* Join our slack group: https://innersourcecommons.org/community/#ispo
 * Get meeting invites: https://github.com/InnerSourceCommons/ispo-working-group/issues/new
 * GitHub repository: https://github.com/InnerSourceCommons/ispo-working-group
 * Kanban board: https://github.com/orgs/InnerSourceCommons/projects/4 
-* Join our slack group: https://innersourcecommons.org/community/#ispo
 
-<!--- Slide 20: Closing Statement
+<!---
+The InnerSource Program Office (ISPO) Working Group is an opportunity for those involved in enterprise-level software development.
 
-In conclusion, the InnerSource Program Office (ISPO) Working Group is a unique opportunity for those involved in enterprise-level software development and collaboration.
+Whether you're a member of an ISPO, OSPO, Platform Engineering Team, or other centralized groups, you'll find benefits .
 
-Whether you're a member of an ISPO, OSPO, Platform Engineering Team, or other centralized groups, you'll benefit from our group.
+Our group allows you to contribute and benefit from a wealth of shared experience, enhancing your organization's InnerSource capabilities.
 
-Our collaborative space allows you to contribute and benefit from a wealth of shared knowledge and experience, enhancing your organization's InnerSource capabilities.
-
-Remember, the ISPO Working Group is more than just a repository of information—we're shaping the future of InnerSource. So, don't miss out on this chance to amplify your impact, refine your skills. 
-
-In closing, join us at the InnerSource Program Office Working Group by navigating to the first link to get meeting invites.
+As we wrap up with questions, join us at the InnerSource Program Office Working Group by navigating to the first link or scanning the QR code to join our Slack group.
 
 Thank You
-
 --->
