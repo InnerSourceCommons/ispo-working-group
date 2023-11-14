@@ -230,7 +230,7 @@ other ideas later on.
 
 **What are InnerSource Metrics?**
 
-InnerSource Metrics meaninfully demonstrate the value of InnerSource to our stakeholders.
+InnerSource Metrics meaningfully demonstrate the value of InnerSource to our stakeholders.
 
 *Example InnerSource Metrics*
 
