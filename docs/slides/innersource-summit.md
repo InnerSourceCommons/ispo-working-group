@@ -48,7 +48,7 @@ You don't formally need an ISPO team for this content to be useful
 You might be concerned with InnerSource in any of these other teams.
 <!-- Slide 4: Key Message:  
 
-Rarely is there a team called the ISPO. 
+It is pretty rare that is there a team called the ISPO. 
 
 Often the people doing InnerSource related work in a company are in a
 team with a large scope of responsibilities and InnerSource is just
@@ -61,8 +61,12 @@ developer experience team.
 They also could be single person working under the head engineering or as part of 
 an engineering community of practice. 
 
-When we say ISPO, we mean anyone on any of those teams concerned 
+When we say ISPO, what we really mean is anyone on any of those teams concerned 
 with internal code collaboration at company-scale.
+
+So if that sounds like you, then you are especially
+who we are trying to reach today with this presentation and working group.
+
 
 -->
 
@@ -87,9 +91,8 @@ for how to be a good InnerSource maintainer and guidance on how to set up
 your project for InnerSource success. 
 
 Those are important areas, but they are outside of
-the working groups scope. We focus specificaly 
-on guidance, tools, policies, methods, etc.
-that are "run by or owned by a centralized team"
+the scope of the working group. Instead, the working group focuses
+on elements specific to centralized teams driving InnerSource at company-wide scale.
 
 -->
 
@@ -97,20 +100,22 @@ that are "run by or owned by a centralized team"
 
 <!--- Slide 6: Key Message --->
 
-Our objective is to help you discover the benefits of our ISPO working group.
+Our objective in this presentation is to help you discover the benefits of our ISPO working group.
 
 https://github.com/InnerSourceCommons/ispo-working-group/blob/main/CONTRIBUTING.md
 
 <!-- Slide 6: Key Message
 
-Our goal for this talk is to help you discover the benefits of the 
-ISPO working group. 
+Our goal for this talk is to help you learn about the 
+ISPO working group and how it might benefit you.
 
 In addition to the content in this talk, you can 
-check out the contributing.md file of the ispo-working-group repository for 
-information on how to get started with the working group. 
+check out similar information in the contributing.md 
+file of the ispo-working-group repository.
 
-You can find it in the meeting chat as well.
+We will put it in the meeting chat. 
+If you want to look at things during the talk, 
+that's a great place to start.
 
 https://github.com/InnerSourceCommons/ispo-working-group/blob/main/CONTRIBUTING.md
 -->
@@ -125,19 +130,19 @@ By participating in our working group
 <!-- Slide 7: Key Message
 
 We have structured the working group such that 
-by participating in our working group we can increase the speed and impact of your InnerSource Program Office.
+by participating in the working group you can increase the speed and impact of your InnerSource Program Office.
 
-The model the working group follows is that: 
+The model the working group follows to do that is: 
 
 - We create shared products, guidance docs, 
-methodology descriptions, etc. 
+methodology descriptions, etc. based shared challenges that we have.
 
 - These get peer reviewed from other InnerSource experts, 
 
-- and then reused internally by yourself and by others.
+- and then the final product gets reused internally by yourself and by others.
 
-This improves the quality of OUR work and enables us to move FASTER
-than if we all did the work individually. 
+This improves the quality of work and enables us to move FASTER
+than if we each did the work individually. 
 -->
 
 ---
@@ -153,15 +158,15 @@ Examples of products we are working on specifically for teams that drive InnerSo
 
 <!-- Slide 8: Key Message
 
-Examples of challenges we are working on include:
+Examples of challenges we are working right on include:
 
 * InnerSource Metrics
 * SCM (Source Code Management)
 * InnerSource Project Assessment and Linting tools
 
-These are all areas where many people in the working group have tried different things, have different lessons to share, 
+These are all challenges where many people in the working group have tried different things, have different lessons to share, 
 and want to learn from the experience of others who have tried other 
-approaches at other companies. 
+approaches at their own companies. 
 -->
 
 ---
@@ -170,30 +175,32 @@ approaches at other companies.
 
 #### Source Code Management (SCM) is: 
 
-"How do you set up GitHub, GitLab, etc. configuration at an enterprise level to best balance security and collaboration?"
+"How do you set up GitHub, GitLab, etc. configuration at an enterprise level to best all the different needs across different types of teams, projects, etc."
 
 ![width:800px](../assets/SCM-table-screenshot.png)
 
 <!-- Slide 10: Key Message 
-One area I have contributed to is in defining guidance for 
-source code management or SCM.
+One area I have contributed to 
+is in defining guidance for source code management or SCM.
 
 SCM refers to how you set up or configure a version control platform like 
 GitHub, GitLab, Bit Bucket, etc. There are lots of decisions to be made in 
 how these platforms are configured and different needs have to be balanced.
 
-Shown on the page is a screenshot of one part of our in-progress guidance documentation that discusses how to balance needs for security 
-and collaboration. 
+Shown on the slide is a screenshot of one part of our in-progress 
+guidance document. 
+It discusses how to balance needs of security and collaboration. 
 
-These needs can sometimes conflict resulting in 
+These needs can sometimes conflict, resulting in 
 disagreements. And in a worst case scenario, a single security 
 event can result in a sudden lock down across the enterprise
 that kills off collaboration.
 
-The purpose of this part of ISPO working group is to generate guidance 
-documents that create a framework for making good configuration choices
-in version control platforms that balance the various needs, like security
-vs. collaboration. 
+By making guide from different perspectives and experiences, 
+we are able to provide an improved framework for how to make
+good configuration choices in version control platforms 
+that balance the various needs, like security vs. collaboration. 
+
 -->
 
 ---
@@ -215,11 +222,11 @@ There are several reasons why I took part in this challenge area:
  personal opinion. Sharing a link to an 
  inner source commons product is more persuasive. 
  
- Third, I wanted to confirm my opinion is aligned with others experiences 
- who have struggled through this at their company. 
+ Third, I wanted to confirm my opinion is aligned with the experiences
+ of others who have struggled through this at their company. 
  
  Fourth, sharing grows my network and provides opportunities to sense check
-other ideas later on.
+other ideas I might have in the future.
 -->
 
 ---
