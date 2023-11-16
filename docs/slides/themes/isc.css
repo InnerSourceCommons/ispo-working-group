@@ -1,0 +1,29 @@
+/* @theme isc */
+/*
+title       : ISC
+author      : InnerSource Commons
+description : A Marp theme for the InnerSource Commons.
+marp        : true
+paginate    : true
+theme       : ics
+*/
+
+/* Examples: https://github.com/rnd195/marp-community-themes */
+
+@import 'default';
+
+:root {
+    font-family: pt sans,sans-serif;
+    font-size: large;
+    --beamer-main: #000000;
+    --beamer-secondary: #ffaa00;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #000000;
+}
