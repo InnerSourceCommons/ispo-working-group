@@ -7,15 +7,15 @@ on:
 
   workflow_dispatch:
 jobs:
-    deloySlides:
+    generateSlides:
       name: Generate Slides
       runs-on: ubuntu-latest
       steps:    
         - name: Checkout
-          uses: actions/checkout@v2
+          uses: actions/checkout@v4
         - name: Marp Build (innersource-summit.pdf)
           uses: docker://marpteam/marp-cli:v3.4.0
           with:
-            args: --allow-local-files docs/assets/slides/innersource-summit.md -o docs/assets/slides/innersource-summit.pdf
+            args: --allow-local-files ./docs/slides/innersource-summit.md -o innersource-summit.pdf
           env:
             MARP_USER: root:root
