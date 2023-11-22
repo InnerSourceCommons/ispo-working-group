@@ -43,7 +43,7 @@ We track production of our content on a [Kanban board] with the following column
 This could be to write an article, code up a tool, create a training video, etc.
 1. **Internal**.  We have implemented the solution internally in a company.
 2. **External**.  We have made the solution available externally.
-3. **Validated**.  More than one company is using the solution.
+3. **Validated**.  At least one company is using the solution.
 
 A regular meeting proposes new challenges, discusses ideas, and demos solutions.
 
