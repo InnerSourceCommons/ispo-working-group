@@ -5,6 +5,7 @@ labels: ["join-wg"]
 assignees:
   - rrrutledge
   - spier
+  - jeffabailey
 body:
   - type: markdown
     attributes:
