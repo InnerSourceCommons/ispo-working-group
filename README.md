@@ -43,7 +43,7 @@ If you want to share details about an InnerSource challenge that you are working
 To work with our [Kanban board][] we need to add you to our GitHub team.
 Please file a [join working group][] issue, and an Admin will add you shortly.
 
-### Meetings
+## Meetings
 
 There is also a meeting every other week where we discuss work in progress and new challenges that we are working on. Find details in [slack].
 
