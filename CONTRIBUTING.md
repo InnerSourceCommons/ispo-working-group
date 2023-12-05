@@ -1,3 +1,6 @@
+---
+---
+
 Welcome!
 
 Every person creating InnerSource-related content or tools within their company should contribute to this working group.
