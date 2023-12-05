@@ -59,6 +59,36 @@ Simply send a pull request to this repository to contribute.
 Note that the rendered website at <https://innersourcecommons.github.io/ispo-working-group/> is using a Jekyll theme that comes from <https://github.com/InnerSourceCommons/working-group-roles>. 
 Some elements you see in the rendered webpage are coming from the theme (e.g. the roles), so you may have to contribute there instead.
 
+#### How to develop and test locally
+
+Here you can find information on how to test your changes locally, without having to deploy the content to GitHub pages.
+
+##### With a native Ruby setup
+
+Install the dependencies with the command:
+
+```
+bundle install
+```
+
+Run jekyll locally to serve the website with the command:
+
+```
+jekyll serve
+```
+
+You should be able to access the website at <http://localhost:4000/ispo-working-group/>
+
+##### With a Docker Compose
+
+If you have an environment able to run containers that is compatible with _Docker Compose_ (e.g. Docker Desktop or Podman), run the website locally with the following command:
+
+```
+docker compose up
+```
+
+You should be able to access the website at <http://localhost:4000/ispo-working-group/>
+
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
 [joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new/choose
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
