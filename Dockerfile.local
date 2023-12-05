@@ -1,0 +1,11 @@
+FROM ruby:3.2
+
+WORKDIR /usr/src/app
+
+COPY Gemfile /usr/src/app
+
+# Update bundler to the lastest version
+RUN bundle install
+
+# on --host "0.0.0.0", see https://stackoverflow.com/a/51404865
+CMD bundle exec jekyll serve --host "0.0.0.0"

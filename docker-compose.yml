@@ -1,0 +1,10 @@
+version: "3.0"
+services:
+  github-pages:
+    build:
+      context: .
+      dockerfile: ./Dockerfile.local
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - 4000:4000
