@@ -38,12 +38,17 @@ These two examples follow the same pattern - providing directly-usable materials
 
 To chat with everybody in the ISPO working group, please join us in the _[#ispo-working-group][]_ channel in [slack][].
 
-There is also a meeting every other week where we discuss work in progress and new challenges that we are working on. Find details in slack.
-
 If you want to share details about an InnerSource challenge that you are working in your day job, please open a [new issue](https://github.com/InnerSourceCommons/ispo-working-group/issues) on this repo.
 
 To work with our [Kanban board][] we need to add you to our GitHub team.
 Please file a [join working group][] issue, and an Admin will add you shortly.
+
+## Meetings
+
+There is also a meeting every other week where we discuss work in progress and new challenges that we are working on. Find details in [slack].
+
+We use the [InnerSource Commons working group roles](https://github.com/InnerSourceCommons/working-group-roles) to run our meetings.
+Here is our [roles documentation site](https://innersourcecommons.github.io/ispo-working-group/).
 
 ## Trusted Committers
 
@@ -52,6 +57,7 @@ Special thanks to:
 
 * Russ Rutledge ([@rrrutledge](https://github.com/rrrutledge))
 * Jeff Bailey ([@jeffabailey](https://github.com/jeffabailey))
+* Justin Gosses ([@JustinGOSSES](https://github.com/JustinGOSSES))
 
 ## Recording
 
