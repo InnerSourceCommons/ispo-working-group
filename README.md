@@ -57,6 +57,7 @@ Special thanks to:
 
 * Russ Rutledge ([@rrrutledge](https://github.com/rrrutledge))
 * Jeff Bailey ([@jeffabailey](https://github.com/jeffabailey))
+* Justin Gosses ([@JustinGOSSES](https://github.com/JustinGOSSES))
 
 ## Recording
 
