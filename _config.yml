@@ -19,4 +19,7 @@ links:
   # Our Google Sheets attendance.
   attendance: https://docs.google.com/spreadsheets/d/1YNTpX-e7s2YQhjgWgSyr_9I_EO3NIqFVMiMbsGkgVrA/edit?usp=sharing
 
+  # Link to join our regular meeting
+  meeting_link: https://meet.jit.si/ISPOWorkingGroup
+
 remote_theme: InnerSourceCommons/working-group-roles
