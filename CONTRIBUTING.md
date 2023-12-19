@@ -41,12 +41,12 @@ To contribute, get access to the board by [joining the ISPO Working Group team].
 We track production of our content on a [Kanban board] with the following columns:
 
 1. **Challenge**.  This means that we've identified such-and-such a thing as a challenge.
-2. **In Progress**.  Someone is working on a proposal for a solution to the challenge.
-3. **Proposed**.  We have a proposal for a solution to the challenge.
+1. **In Progress**.  Someone is working on a proposal for a solution to the challenge.
+1. **Proposed**.  We have a proposal for a solution to the challenge.
 This could be to write an article, code up a tool, create a training video, etc.
 1. **Internal**.  We have implemented the solution internally in a company.
-2. **External**.  We have made the solution available externally.
-3. **Validated**.  At least one company is using the solution.
+1. **External**.  We have made the solution available externally.
+1. **Adopted**.  At least one company is using the solution.
 
 A regular meeting proposes new challenges, discusses ideas, and demos solutions.
 
