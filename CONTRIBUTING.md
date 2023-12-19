@@ -11,8 +11,6 @@ Check out our [README.md] for more details.
 
 ## Ways to Contribute
 
-### To the working group
-
 ```mermaid
 graph LR
     WG[ISPO Working Group] --> KB[Kanban Board]
