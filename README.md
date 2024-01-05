@@ -38,6 +38,9 @@ These two examples follow the same pattern - providing directly-usable materials
 
 To chat with everybody in the ISPO working group, please join us in the _[#ispo-working-group][]_ channel in [slack][].
 
+You can find our public meetings on the [InnerSource Commons Public Calendar] (recurring every-other-Monday).
+Add to your calendar and join us!
+
 If you want to share details about an InnerSource challenge that you are working in your day job, please open a [new issue](https://github.com/InnerSourceCommons/ispo-working-group/issues) on this repo.
 
 To work with our [Kanban board][] we need to add you to our GitHub team.
@@ -76,6 +79,7 @@ Find us in the _[#ispo-working-group][]_ channel in [slack][].
 [CONTRIBUTING.md]: ./CONTRIBUTING.md
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [slack]: https://innersourcecommons.org/slack
+[InnerSource Commons Public Calendar]: https://calendar.google.com/calendar/u/0/embed?src=c_62694f414055ac569e5cb12dafbb0890ca22f3640b177a4b10b53171fbc9bdd4@group.calendar.google.com
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
 [Managing InnerSource Projects]: https://innersourcecommons.org/learn/books/managing-innersource-projects/
 [InnerSource Patterns]: https://innersourcecommons.org/learn/books/innersource-patterns/
