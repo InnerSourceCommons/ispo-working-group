@@ -14,6 +14,38 @@ Our goal is to document these sets of solutions to challenges, make it easy for 
 These implementations will likely be documents, videos, or code, each of which is generic enough to be used across companies,
 yet specific enough that people in the company can leverage them to solve their problems without needing notable amounts of company-specific work.
 
+## Implementation
+
+For our teaching and training, we expect to create together **The Handbook of InnerSource**, which contains our collective, practical knowledge of how to run InnerSource projects and programs.
+The goal is that a new practioner can implement the instruction in the handbook and be successful with it in their InnerSource goals.
+We expect that the handbook will have various sections for the different personas and roles involved with InnerSource, e.g. ISPO group, engineering managers, product leaders, individual engineers, etc.
+
+We imagine that content in the handbook will consist of 3 parts:
+1. A general pattern describing, at a high level, what to do for some aspect of InnerSource.
+This is important so that the general principles and approaches of InnerSource are captured.
+In the ideal state this part of the content would be shared with the existing [InnerSource Patterns](https://innersourcecommons.org/learn/books/innersource-patterns/) book.
+1. (Multiple) examples of how that pattern is implemented in different contexts.
+These concrete examples are important because they allow practioners to select the implementation that matches their context and then execute the described implementation.
+We don't want practitioners to have the overhead of figuring out over and over again how to adapt a pattern to their given context.
+1. Explanatory videos that describe the general pattern or its example implementations (separate vidoes for each).
+Ideally every text article in the handbook has an accompanying video.
+People like to watch training videos, so it makes the content more accessible to them.
+
+Click through for a diagram showing what this might look like.
+
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/9609562/245475861-de4e1b79-1d1c-41ad-8f2d-c1d612fed649.png" width="50%" />](https://miro.com/app/board/uXjVM_OGfjY=/)
+
+Some comments on this approach:
+* For a given article, not all 3 parts of it (pattern, implementation, video) need to be done at once.
+The handbook should be able to render any combination of one, two, or three of these so that people can contribute whatever part(s) they're interested in.
+* The handbook may look something like the [Managing InnerSource Projects](https://innersourcecommons.gitbook.io/managing-inner-source-projects/) book and, in fact, may end up being a superset and subsume the content there.
+* If this approach works well and is useful, then it may subsume most of the content from the existing Learning Path and Patterns working groups.
+The advantage of this handbook format over those existing projects is the way it gives first-class constructs to:
+  - Tie together general patterns with (multiple) explicit instructions of how to implement those patterns.
+  - Incorporate a chance for video along with every written article.
+
+Once there is a concrete example of some content that contains these 3 parts, we will link to it here as an example (tracked via [#53](https://github.com/InnerSourceCommons/ispo-working-group/issues/53)).
+
 ## Principles
 
 * **Progress over perfection** — Even if a solution doesn't work for all companies, we'll still put it out there.
