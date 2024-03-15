@@ -9,7 +9,8 @@ This document describes how to add a new Trusted Committer to the ISPO Working G
 7. Add the person to the [@InnerSourceCommons/ispo-working-group-trusted-committers] _GitHub_ team.
 8. Make the person an owner of the [@InnerSourceCommons/ispo-working-group-trusted-committers] _GitHub_ team.
 9. Add the person as an assignee for the ["Join Working Group" issue template](https://github.com/InnerSourceCommons/ispo-working-group/edit/main/.github/ISSUE_TEMPLATE/join-wg.yml).
-10. Give a shout-out and congratulations to the person in the [#ispo-working-group] channel for becoming a Trusted Committer.
+10. Invite the person to the ISPO Working Group Trusted Committers meeting.
+11. Give a shout-out and congratulations to the person in the [#ispo-working-group] channel for becoming a Trusted Committer.
 
 [#ispo-working-group-trusted-committers]: https://app.slack.com/client/T04PXKRM0/C05QTAZC5PZ
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
