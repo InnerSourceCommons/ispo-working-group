@@ -3,7 +3,7 @@
 The purpose of this working group is to support InnerSource Program Offices (ISPOs) with materials needed to establish themselves, educate partners and stakeholders, and scale InnerSource in their respective company.
 This material could be directed towards senior leaders, managers, or individuals in a variety of roles.
 A lot of our work ends up in the [Managing InnerSource Projects] or [InnerSource Patterns] books.
-Check out our [CONTRIBUTING.md][] for specifics on how you can get involved.
+Check out our [CONTRIBUTING.md] for specifics on how you can get involved.
 
 ## Summary
 
@@ -36,22 +36,22 @@ These two examples follow the same pattern - providing directly-usable materials
 
 ## Joining the Working Group
 
-To chat with everybody in the ISPO working group, please join us in the _[#ispo-working-group][]_ channel in [slack][].
+To chat with everybody in the ISPO working group, please join us in the _[#ispo-working-group]_ channel in [slack].
 
 You can find our public meetings on the [InnerSource Commons Public Calendar] (recurring every-other-Monday).
 Add to your calendar and join us!
 
-If you want to share details about an InnerSource challenge that you are working in your day job, please open a [new issue](https://github.com/InnerSourceCommons/ispo-working-group/issues) on this repo.
+If you want to share details about an InnerSource challenge that you are working in your day job, please open a [new issue] on this repo.
 
-To work with our [Kanban board][] we need to add you to our GitHub team.
-Please file a [join working group][] issue, and an Admin will add you shortly.
+To work with our [Kanban board] we need to add you to our GitHub team.
+Please file a [join working group] issue, and an Admin will add you shortly.
 
 ## Meetings
 
 There is also a meeting every other week where we discuss work in progress and new challenges that we are working on. Find details in [slack].
 
-We use the [InnerSource Commons working group roles](https://github.com/InnerSourceCommons/working-group-roles) to run our meetings.
-Here is our [roles documentation site](https://innersourcecommons.github.io/ispo-working-group/).
+We use the [InnerSource Commons working group roles] to run our meetings.
+Here is our [working group documentation site].
 
 ## Trusted Committers
 
@@ -71,18 +71,23 @@ Check out this presentation explaining the motivation, tasks, and goals of this 
 
 ## References
 
-* [Working Group Charter](https://github.com/InnerSourceCommons/foundation-governance/edit/master/ispo-working-group-charter.md)
+* [Working Group Charter]
 
 ## Contact
 
-Find us in the _[#ispo-working-group][]_ channel in [slack][].
+Find us in the _[#ispo-working-group]_ channel in [slack].
 
 [CONTRIBUTING.md]: ./CONTRIBUTING.md
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [slack]: https://innersourcecommons.org/slack
 [InnerSource Commons Public Calendar]: https://calendar.google.com/calendar/u/0/embed?src=c_62694f414055ac569e5cb12dafbb0890ca22f3640b177a4b10b53171fbc9bdd4@group.calendar.google.com
+[new issue]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
 [Managing InnerSource Projects]: https://innersourcecommons.org/learn/books/managing-innersource-projects/
 [InnerSource Patterns]: https://innersourcecommons.org/learn/books/innersource-patterns/
 [Learning Path]: https://github.com/InnerSourceCommons/InnerSourceLearningPath
 [join working group]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new?assignees=rrrutledge%2Cspier&labels=join-wg&template=join-wg.yml&title=%5Bjoin%5D+%3Cyour-name%3E
+[InnerSource Commons working group roles]: https://github.com/InnerSourceCommons/working-group-roles
+[working group documentation site]: https://innersourcecommons.github.io/ispo-working-group/
+[Working Group Charter]: https://github.com/InnerSourceCommons/foundation-governance/edit/master/ispo-working-group-charter.md
+
