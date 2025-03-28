@@ -61,8 +61,8 @@ columns:
 1. **Proposed**. We have a proposal for a solution to the challenge.
    This could be to write an article, code up a tool, create a training video,
    etc.
+1. **External**. We have shared the solution publicly with the working group.
 1. **Internal**. We have implemented the solution internally in a company.
-1. **External**. We have made the solution available externally.
 1. **Adopted**. At least one company is using the solution.
 
 In our meetings, we propose new challenges, discuss ideas, and demo solutions.
