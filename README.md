@@ -77,7 +77,7 @@ Check out this presentation explaining the motivation, tasks, and goals of this 
 
 Find us in the _[#ispo-working-group]_ channel in [slack].
 
-[CONTRIBUTING.md]: ./CONTRIBUTING.md
+[CONTRIBUTING.md]: https://github.com/InnerSourceCommons/ispo-working-group/blob/main/CONTRIBUTING.md
 [#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [slack]: https://innersourcecommons.org/slack
 [InnerSource Commons Public Calendar]: https://calendar.google.com/calendar/u/0/embed?src=c_62694f414055ac569e5cb12dafbb0890ca22f3640b177a4b10b53171fbc9bdd4@group.calendar.google.com
