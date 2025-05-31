@@ -89,5 +89,4 @@ Find us in the _[#ispo-working-group]_ channel in [slack].
 [join working group]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new?assignees=rrrutledge%2Cspier&labels=join-wg&template=join-wg.yml&title=%5Bjoin%5D+%3Cyour-name%3E
 [InnerSource Commons working group roles]: https://github.com/InnerSourceCommons/working-group-roles
 [working group documentation site]: https://innersourcecommons.github.io/ispo-working-group/
-[Working Group Charter]: https://github.com/InnerSourceCommons/foundation-governance/edit/master/ispo-working-group-charter.md
-
+[Working Group Charter]: https://github.com/InnerSourceCommons/foundation-governance/blob/master/resources/ispo-working-group-charter.md
