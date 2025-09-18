@@ -24,5 +24,4 @@ jobs:
           stale-issue-label: 'stale'
           stale-pr-label: 'stale'
           exempt-pr-labels: 'wip,blocked'
-          debug-only: true
           enable-statistics: true          
