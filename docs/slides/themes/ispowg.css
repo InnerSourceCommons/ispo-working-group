@@ -1,0 +1,60 @@
+/* @theme ispowg */
+/*
+title       : ISPO Working Group
+author      : ISPO Working Group
+description : A Marp theme for ISPO Working Group quick introduction slides
+marp        : true
+paginate    : true
+*/
+
+@import 'default';
+
+:root {
+  font-family: 'PT Sans', sans-serif;
+  font-size: large;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+section {
+  background-color: #ffffff;
+  background: linear-gradient(to right, #ffffff 75%, #29abaa 75%);
+  position: relative;
+  padding-right: 30% !important;
+  color: #000000;
+}
+
+section::after {
+  content: "";
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  width: 260px;
+  height: 100px;
+  min-height: 50px;
+  background-image: url('./ispo-logo.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center right;
+  display: block !important;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+.logo {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  width: 260px;
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #000000;
+}
+
