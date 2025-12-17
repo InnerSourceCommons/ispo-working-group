@@ -1,21 +1,36 @@
-name: Generate ISPO Slides
+name: Generate ISPO Working Group Slides
 on:
   push:
     branches: [main]
     paths:
-      - 'docs/assets/slides/**'
+      - 'docs/slides/**'
 
   workflow_dispatch:
 jobs:
-    generateSlides:
-      name: Generate Slides
-      runs-on: ubuntu-latest
-      steps:    
-        - name: Checkout
-          uses: actions/checkout@v4
-        - name: Marp Build (innersource-summit.pdf)
-          uses: docker://marpteam/marp-cli:v3.4.0
-          with:
-            args: --allow-local-files ./docs/slides/innersource-summit.md -o innersource-summit.pdf
-          env:
-            MARP_USER: root:root
+  generateSlides:
+    name: Generate All Slides
+    runs-on: ubuntu-latest
+    steps:    
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+          ssh-key: ${{ secrets.DEPLOY_KEY_SSH_PRIVATE_KEY || '' }}
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      
+      - name: Install marp-cli
+        run: npm install -g @marp-team/marp-cli
+      
+      - name: Generate Slides
+        run: ./docs/slides/scripts/generate-slides.sh
+          

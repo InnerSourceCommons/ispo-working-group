@@ -2,45 +2,36 @@
 
 We use [Marp](https://marp.app/) to create our slides.
 
-Why? Because it's easy to use, it's free, facilitates efficient collaboration, and it's open source.
+> **Note:** Slides (PDF, HTML, PPTX) are automatically generated via GitHub
+> Actions when changes are pushed to `main`. You can also generate them locally
+> using the script below.
 
 ## How to create slides
 
-1. Install Marp CLI
+1. Create a new slide deck in a subdirectory:
 
     ```bash
-    npm install -g @marp-team/marp-cli
+    mkdir docs/slides/my-presentation
+    touch docs/slides/my-presentation/my-presentation.md
     ```
 
-2. Create a new slide deck
+2. Edit the slide deck with this header:
+
+    ```markdown
+    ---
+    marp: true
+    theme: ispowg
+    themeSet: ../themes
+    ---
+    ```
+
+3. Generate all slides:
 
     ```bash
-    touch deck.md
+    ./docs/slides/scripts/generate-slides.sh
     ```
 
-3. Edit the slide deck
-4. Export the slide deck to PDF
+    Generates PDF, HTML, and PPTX for all slide decks. Requires `marp-cli`
+    (`npm install -g @marp-team/marp-cli`) or Docker.
 
-    ```bash
-    marp --allow-local-files deck.md --pdf
-    ```
-
-5. Open the PDF file in your PDF viewer
-6. Commit the slide deck
-
-```bash
-git add deck.md deck.html deck.pdf
-git commit -m "Add slide deck"
-```
-
-Alternatively, install the [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) extension and use the "Marp: Export slide deck" command to export the slide deck to HTML and PDF.
-
-Remember to use the "Marp: Open preview to the side" command to preview the slide deck in VS Code to save time rather than exporting the slide deck to PDF every time you make a change.
-
-The markdown file must have this header to render correctly:
-
-```markdown
----
-marp: true
----
-```
+4. Preview in VS Code using the [Marp extension](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode).
