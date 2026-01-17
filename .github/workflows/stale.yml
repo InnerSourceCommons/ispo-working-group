@@ -11,17 +11,56 @@ jobs:
       pull-requests: write
       contents: write
     steps:
+      - name: Generate stale messages
+        id: messages
+        run: |
+          EXEMPT_PR_LABELS='wip,blocked'
+          STALE_TEMPLATE='This [type] is stale because it has been open [stale-days] days with no activity. It will be closed in [close-days] days if no further activity occurs.'
+          CLOSE_TEMPLATE='Closing this [type] due to prolonged inactivity. Tag your issue with blocked or [exempt-pr-labels] to keep it open.'
+          
+          STALE_ISSUE_MSG="${STALE_TEMPLATE//\[type\]/issue}"
+          STALE_ISSUE_MSG="${STALE_ISSUE_MSG//\[stale-days\]/30}"
+          STALE_ISSUE_MSG="${STALE_ISSUE_MSG//\[close-days\]/5}"
+          
+          CLOSE_ISSUE_MSG="${CLOSE_TEMPLATE//\[type\]/issue}"
+          CLOSE_ISSUE_MSG="${CLOSE_ISSUE_MSG//\[exempt-pr-labels\]/$EXEMPT_PR_LABELS}"
+          
+          STALE_PR_MSG="${STALE_TEMPLATE//\[type\]/PR}"
+          STALE_PR_MSG="${STALE_PR_MSG//\[stale-days\]/45}"
+          STALE_PR_MSG="${STALE_PR_MSG//\[close-days\]/10}"
+          
+          CLOSE_PR_MSG="${CLOSE_TEMPLATE//\[type\]/PR}"
+          CLOSE_PR_MSG="${CLOSE_PR_MSG//\[exempt-pr-labels\]/$EXEMPT_PR_LABELS}"
+          
+          echo "exempt-pr-labels=$EXEMPT_PR_LABELS" >> $GITHUB_OUTPUT
+          
+          {
+            echo "stale-issue-message<<EOF"
+            echo "$STALE_ISSUE_MSG"
+            echo "EOF"
+            echo "close-issue-message<<EOF"
+            echo "$CLOSE_ISSUE_MSG"
+            echo "EOF"
+            echo "stale-pr-message<<EOF"
+            echo "$STALE_PR_MSG"
+            echo "EOF"
+            echo "close-pr-message<<EOF"
+            echo "$CLOSE_PR_MSG"
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
+      
       - uses: actions/stale@v9
         with:
-          stale-issue-message: 'This issue is stale because it has been open 30 days with no activity. It will be closed in 5 days if no further activity occurs.'
-          close-issue-message: 'Closing this issue due to prolonged inactivity.'
-          stale-pr-message: 'This PR is stale because it has been open 45 days with no activity. It will be closed in 10 days if no further activity occurs.'
-          close-pr-message: 'Closing this PR due to prolonged inactivity.'
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          stale-issue-message: ${{ steps.messages.outputs.stale-issue-message }}
+          close-issue-message: ${{ steps.messages.outputs.close-issue-message }}
+          stale-pr-message: ${{ steps.messages.outputs.stale-pr-message }}
+          close-pr-message: ${{ steps.messages.outputs.close-pr-message }}
           days-before-issue-stale: 30
           days-before-pr-stale: 45
           days-before-issue-close: 5
           days-before-pr-close: 10
           stale-issue-label: 'stale'
           stale-pr-label: 'stale'
-          exempt-pr-labels: 'wip,blocked'
+          exempt-pr-labels: ${{ steps.messages.outputs.exempt-pr-labels }}
           enable-statistics: true          
