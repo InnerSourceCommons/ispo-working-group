@@ -15,8 +15,8 @@ jobs:
         id: messages
         run: |
           EXEMPT_PR_LABELS='wip,blocked'
-          STALE_TEMPLATE='This [type] is stale because it has been open [stale-days] days with no activity. It will be closed in [close-days] days if no further activity occurs.'
-          CLOSE_TEMPLATE='Closing this [type] due to prolonged inactivity. Tag your issue with blocked or [exempt-pr-labels] to keep it open.'
+          STALE_TEMPLATE='This [type] is stale because it has been open [stale-days] days with no activity. It will be closed in [close-days] days if no further activity occurs.  Tag your issue with blocked or [exempt-pr-labels] to keep it open.'
+          CLOSE_TEMPLATE='Closing this [type] due to prolonged inactivity.'
           
           STALE_ISSUE_MSG="${STALE_TEMPLATE//\[type\]/issue}"
           STALE_ISSUE_MSG="${STALE_ISSUE_MSG//\[stale-days\]/30}"
