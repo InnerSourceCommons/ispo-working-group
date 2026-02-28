@@ -76,7 +76,7 @@ Check out this presentation explaining the motivation, tasks, and goals of this 
 _Our goals align with [the InnerSource Commons RISE goals](https://innersourcecommons.org/about/)._
 
 * Design, prototype, and document an AI‑augmented InnerSource workflow showing how agentic coding tools boost reuse and collaboration, not replace them.
-* Publish an enforceable governance and tooling framework to prevent AI-generated throwaway code from replacing healthy InnerSource reuse.
+* Publish a governance, tooling, training, and promotion framework to prevent AI-generated throwaway code from replacing healthy InnerSource reuse.
 
 ## References
 
