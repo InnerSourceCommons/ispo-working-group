@@ -69,6 +69,15 @@ Check out this presentation explaining the motivation, tasks, and goals of this 
 
 [<img src="https://user-images.githubusercontent.com/9609562/211604583-ee41a7b4-cb56-4f72-9256-bfa2a560258b.png" width="50%" />](https://www.youtube.com/watch?v=r8Ce7GlwBeA)
 
+## Working Group Goals
+
+### 2026 Goals
+
+_Our goals align with [the InnerSource Commons RISE goals](https://innersourcecommons.org/about/)._
+
+* Design, prototype, and document an AI‑augmented InnerSource workflow showing how agentic coding tools boost reuse and collaboration, not replace them.
+* Publish a governance, tooling, training, and promotion framework to prevent AI-generated throwaway code from replacing healthy InnerSource reuse.
+
 ## References
 
 * [Working Group Charter]
