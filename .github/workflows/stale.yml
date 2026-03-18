@@ -14,25 +14,27 @@ jobs:
       - name: Generate stale messages
         id: messages
         run: |
-          EXEMPT_PR_LABELS='wip,blocked'
-          STALE_TEMPLATE='This [type] is stale because it has been open [stale-days] days with no activity. It will be closed in [close-days] days if no further activity occurs.  Tag your issue with blocked or [exempt-pr-labels] to keep it open.'
-          CLOSE_TEMPLATE='Closing this [type] due to prolonged inactivity.'
+          EXEMPT_LABELS='wip,blocked'
+          STALE_TEMPLATE='This [type] is stale because it has been open [stale-days] days with no activity. It will be closed in [close-days] days if no further activity occurs. Tag your issue or PR with [exempt-labels] to keep it open.'
+          CLOSE_TEMPLATE='Closing this [type] due to prolonged inactivity. Tag with [exempt-labels] to keep it open.'
           
           STALE_ISSUE_MSG="${STALE_TEMPLATE//\[type\]/issue}"
           STALE_ISSUE_MSG="${STALE_ISSUE_MSG//\[stale-days\]/30}"
           STALE_ISSUE_MSG="${STALE_ISSUE_MSG//\[close-days\]/5}"
+          STALE_ISSUE_MSG="${STALE_ISSUE_MSG//\[exempt-labels\]/$EXEMPT_LABELS}"
           
           CLOSE_ISSUE_MSG="${CLOSE_TEMPLATE//\[type\]/issue}"
-          CLOSE_ISSUE_MSG="${CLOSE_ISSUE_MSG//\[exempt-pr-labels\]/$EXEMPT_PR_LABELS}"
+          CLOSE_ISSUE_MSG="${CLOSE_ISSUE_MSG//\[exempt-labels\]/$EXEMPT_LABELS}"
           
           STALE_PR_MSG="${STALE_TEMPLATE//\[type\]/PR}"
           STALE_PR_MSG="${STALE_PR_MSG//\[stale-days\]/45}"
           STALE_PR_MSG="${STALE_PR_MSG//\[close-days\]/10}"
+          STALE_PR_MSG="${STALE_PR_MSG//\[exempt-labels\]/$EXEMPT_LABELS}"
           
           CLOSE_PR_MSG="${CLOSE_TEMPLATE//\[type\]/PR}"
-          CLOSE_PR_MSG="${CLOSE_PR_MSG//\[exempt-pr-labels\]/$EXEMPT_PR_LABELS}"
+          CLOSE_PR_MSG="${CLOSE_PR_MSG//\[exempt-labels\]/$EXEMPT_LABELS}"
           
-          echo "exempt-pr-labels=$EXEMPT_PR_LABELS" >> $GITHUB_OUTPUT
+          echo "exempt-labels=$EXEMPT_LABELS" >> $GITHUB_OUTPUT
           
           {
             echo "stale-issue-message<<EOF"
@@ -62,5 +64,6 @@ jobs:
           days-before-pr-close: 10
           stale-issue-label: 'stale'
           stale-pr-label: 'stale'
-          exempt-pr-labels: ${{ steps.messages.outputs.exempt-pr-labels }}
-          enable-statistics: true          
+          exempt-issue-labels: ${{ steps.messages.outputs.exempt-labels }}
+          exempt-pr-labels: ${{ steps.messages.outputs.exempt-labels }}
+          enable-statistics: true
